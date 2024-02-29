@@ -1,0 +1,328 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"><title>通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源 | 伊哥の分享</title><meta name="author" content="伊哥"><meta name="copyright" content="伊哥"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源 重点：通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 静态资源(GitHub图床)，自动实现 CDN 资源的海内外分流，加速博客访问速度。 1 前言我们在使用 PicGo + GitHub 搭建图床，这样搭建的图床很稳定，但缺点是国内访问速度慢。可以使用 jsDelivr 对">
+<meta property="og:type" content="article">
+<meta property="og:title" content="通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源">
+<meta property="og:url" content="https://www.318666.xyz/2024/02/29/%E9%80%9A%E8%BF%87-Cloudflare-%E5%92%8C-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F%E5%8D%9A%E5%AE%A2-GitHub-%E5%9B%BE%E5%BA%8A%E7%AD%89%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/index.html">
+<meta property="og:site_name" content="伊哥の分享">
+<meta property="og:description" content="通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源 重点：通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 静态资源(GitHub图床)，自动实现 CDN 资源的海内外分流，加速博客访问速度。 1 前言我们在使用 PicGo + GitHub 搭建图床，这样搭建的图床很稳定，但缺点是国内访问速度慢。可以使用 jsDelivr 对">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291933732.png">
+<meta property="article:published_time" content="2024-02-29T13:09:38.000Z">
+<meta property="article:modified_time" content="2024-02-29T13:11:15.846Z">
+<meta property="article:author" content="伊哥">
+<meta property="article:tag" content="cdn">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291933732.png"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://www.318666.xyz/2024/02/29/%E9%80%9A%E8%BF%87-Cloudflare-%E5%92%8C-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F%E5%8D%9A%E5%AE%A2-GitHub-%E5%9B%BE%E5%BA%8A%E7%AD%89%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/index.html"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css?v=4.13.0"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/css/all.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = {
+  root: '/',
+  algolia: undefined,
+  localSearch: undefined,
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlight.js","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: false,
+    post: false
+  },
+  runtime: '天',
+  dateSuffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: undefined,
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  infinitegrid: {
+    js: 'https://cdn.jsdelivr.net/npm/@egjs/infinitegrid@4.11.1/dist/infinitegrid.min.js',
+    buttonText: '加载更多'
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false,
+  percent: {
+    toc: true,
+    rightside: true,
+  },
+  autoDarkmode: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2024-02-29 21:11:15'
+}</script><script>(win=>{
+      win.saveToLocal = {
+        set: (key, value, ttl) => {
+          if (ttl === 0) return
+          const now = Date.now()
+          const expiry = now + ttl * 86400000
+          const item = {
+            value,
+            expiry
+          }
+          localStorage.setItem(key, JSON.stringify(item))
+        },
+      
+        get: key => {
+          const itemStr = localStorage.getItem(key)
+      
+          if (!itemStr) {
+            return undefined
+          }
+          const item = JSON.parse(itemStr)
+          const now = Date.now()
+      
+          if (now > item.expiry) {
+            localStorage.removeItem(key)
+            return undefined
+          }
+          return item.value
+        }
+      }
+    
+      win.getScript = (url, attr = {}) => new Promise((resolve, reject) => {
+        const script = document.createElement('script')
+        script.src = url
+        script.async = true
+        script.onerror = reject
+        script.onload = script.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          script.onload = script.onreadystatechange = null
+          resolve()
+        }
+
+        Object.keys(attr).forEach(key => {
+          script.setAttribute(key, attr[key])
+        })
+
+        document.head.appendChild(script)
+      })
+    
+      win.getCSS = (url, id = false) => new Promise((resolve, reject) => {
+        const link = document.createElement('link')
+        link.rel = 'stylesheet'
+        link.href = url
+        if (id) link.id = id
+        link.onerror = reject
+        link.onload = link.onreadystatechange = function() {
+          const loadState = this.readyState
+          if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+          link.onload = link.onreadystatechange = null
+          resolve()
+        }
+        document.head.appendChild(link)
+      })
+    
+      win.activateDarkMode = () => {
+        document.documentElement.setAttribute('data-theme', 'dark')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+        }
+      }
+      win.activateLightMode = () => {
+        document.documentElement.setAttribute('data-theme', 'light')
+        if (document.querySelector('meta[name="theme-color"]') !== null) {
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+        }
+      }
+      const t = saveToLocal.get('theme')
+    
+        if (t === 'dark') activateDarkMode()
+        else if (t === 'light') activateLightMode()
+      
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+      const detectApple = () => {
+        if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+          document.documentElement.classList.add('apple')
+        }
+      }
+      detectApple()
+    })(window)</script><meta name="generator" content="Hexo 7.1.1"></head><body><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291933732.png" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">2</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">1</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">0</div></a></div><hr class="custom-hr"/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 日常</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/share/"><i class="fa-fw fas fa-share"></i><span> 分享</span></a></li><li><a class="site-page child" href="/talks/"><i class="fa-fw fas fa-talks"></i><span> 杂谈</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友情链接</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-about"></i><span> 关于我</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402292006349.jpeg')"><nav id="nav"><span id="blog-info"><a href="/" title="伊哥の分享"><span class="site-name">伊哥の分享</span></a></span><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 归档</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page group" href="javascript:void(0);"><i class="fa-fw fas fa-list"></i><span> 日常</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/share/"><i class="fa-fw fas fa-share"></i><span> 分享</span></a></li><li><a class="site-page child" href="/talks/"><i class="fa-fw fas fa-talks"></i><span> 杂谈</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友情链接</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-about"></i><span> 关于我</span></a></div></div><div id="toggle-menu"><a class="site-page" href="javascript:void(0);"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2024-02-29T13:09:38.000Z" title="发表于 2024-02-29 21:09:38">2024-02-29</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2024-02-29T13:11:15.846Z" title="更新于 2024-02-29 21:11:15">2024-02-29</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span class="post-meta-pv-cv" id="" data-flag-title="通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="busuanzi_value_page_pv"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h1 id="通过-Cloudflare-和-jsDelivr-免费加速博客-GitHub-图床等静态资源"><a href="#通过-Cloudflare-和-jsDelivr-免费加速博客-GitHub-图床等静态资源" class="headerlink" title="通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源"></a>通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源</h1><p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291829274.png"></p>
+<h3 id="重点："><a href="#重点：" class="headerlink" title="重点："></a>重点：</h3><p>通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 静态资源(GitHub图床)，自动实现 CDN 资源的海内外分流，加速博客访问速度。</p>
+<h2 id="1-前言"><a href="#1-前言" class="headerlink" title="1 前言"></a>1 前言</h2><p>我们在使用 PicGo + GitHub 搭建图床，这样搭建的图床很稳定，但缺点是国内访问速度慢。可以使用 <code>jsDelivr</code> 对 Github 图床等静态资源进行免费 CDN 加速。</p>
+<p>jsDelivr是什么？</p>
+<p><code>jsDelivr</code>是国外的一家优秀的公共 CDN 服务提供商，该平台是首个「打通中国大陆与海外的免费 CDN 服务」，无须担心中国防火墙问题而影响使用。官网：<a target="_blank" rel="noopener" href="http://www.jsdelivr.com/">http://www.jsdelivr.com/(opens new window)</a></p>
+<p>但是<code>jsDelivr</code>因为掉 ICP 等原因，国内速度越来越慢。好在 <a target="_blank" rel="noopener" href="https://github.com/54ayao/Chinajsdelivr">Chinajsdelivr</a> 项目将它在国内“复活”了。</p>
+<p>因此，本文思路是，对于 Github 公开仓库中的静态资源：</p>
+<ul>
+<li>如果访问来源是国内，则使用 <a target="_blank" rel="noopener" href="https://github.com/54ayao/Chinajsdelivr">Chinajsdelivr</a> 进行加速，域名为<code>jsd.cdn.zzko.cn</code></li>
+<li>如果访问来源是国内，则使用原版 jsDelivr 进行加速，域名为<code>cdn.jsDelivr.net</code></li>
+</ul>
+<p>即：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"># 1-1. Github raw 链接</span><br><span class="line">https://raw.githubusercontent.com/leegical/Blog_img/main/md_img202305061640828.png</span><br><span class="line"># 1-2. Github 仓库文件链接</span><br><span class="line">https://github.com/leegical/Blog_img/blob/main/md_img202305061640828.png</span><br><span class="line"></span><br><span class="line"># 国内请求将访问到</span><br><span class="line">https://jsd.cdn.zzko.cn/gh/leegical/Blog_img/md_img202305061640828.png</span><br><span class="line"></span><br><span class="line"># 国外请求将访问到</span><br><span class="line">https://cdn.jsdelivr.net/gh/leegical/Blog_img/md_img202305061640828.png</span><br></pre></td></tr></table></figure>
+
+<p>也就是说，我希望对于同一个资源链接，能够根据国内外请求来源自动重定向，使用不同的 CDN 加速链接。这就可以使用 Cloudflare 的重定向规则。</p>
+<h2 id="2-Cloudflare"><a href="#2-Cloudflare" class="headerlink" title="2 Cloudflare"></a>2 Cloudflare</h2><h3 id="2-1-配置域名"><a href="#2-1-配置域名" class="headerlink" title="2.1 配置域名"></a>2.1 配置域名</h3><p>使用 Cloudflare 托管域名，这一点教程很多，跟着做就行，</p>
+<p><a target="_blank" rel="noopener" href="https://cdn.haoyep.com/gh/leegical/Blog_img/cdnimg/202312141651245.png?size=large"><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291830357.png" alt="托管域名"></a></p>
+<p>在 DNS 配置中，新增一条 CNAME 解析记录，并启用代理。 如图，我这里是将 <code>cdn.haoyep.com</code> 解析到了 <code>jsd.cdn.zzko.cn</code>，并使用 Cloudflare 代理（点亮小云朵）。</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291830770.png" alt="添加CNAME解析记录"></p>
+<h3 id="2-2-配置重定向规则"><a href="#2-2-配置重定向规则" class="headerlink" title="2.2 配置重定向规则"></a>2.2 配置重定向规则</h3><p><strong>目标</strong>：资源链接都使用 <code>cdn.haoyep.com</code>，Cloudflare 在代理 <code>cdn.haoyep.com</code> 时，判断请求来源是国内，则将 <code>cdn.haoyep.com</code> 重定向到 <code>jsd.cdn.zzko.cn</code>；国外的请求则重定向到 <code>cdn.jsdelivr.net</code>。</p>
+<ol>
+<li>配置国内重定向<ul>
+<li>规则名称 （必需）：标注国内，方便区分</li>
+<li>自定义筛选表达式：<code>(http.host eq &quot;cdn.haoyep.com&quot; and ip.geoip.country eq &quot;CN&quot;)</code></li>
+<li>URL 重定向<ul>
+<li>类型：动态</li>
+<li>表达式：<code>concat(&quot;https://jsd.cdn.zzko.cn&quot;, http.request.uri.path)</code></li>
+<li>状态代码：<code>302</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291831094.png" alt="国内重定向规则配置"></p>
+<ol>
+<li>配置国外重定向<ul>
+<li>规则名称 （必需）：标注国外，方便区分</li>
+<li>自定义筛选表达式：<code>(http.host eq &quot;cdn.haoyep.com&quot; and ip.geoip.country ne &quot;CN&quot;)</code></li>
+<li>URL 重定向<ul>
+<li>类型：动态</li>
+<li>表达式：<code>concat(&quot;https://cdn.jsdelivr.net&quot;, http.request.uri.path)</code></li>
+<li>状态代码：<code>302</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291831025.png" alt="国外重定向规则配置"></p>
+<p>技巧</p>
+<p>HTTP 重定向状态选择302而不是301。虽然两类请求都会被 Cloudflare 缓存，但301理论上是永久跳转而302是临时跳转，因此301可能会导致长时间缓存，不利于今后修改重定向到新地址。</p>
+<h2 id="3-PicGo-设置"><a href="#3-PicGo-设置" class="headerlink" title="3 PicGo 设置"></a>3 PicGo 设置</h2><p>为了让上传的图片自动生成 CDN 链接，还需要配置 PicGo：</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291831698.png" alt="PicGo Github 图床设置"></p>
+<ul>
+<li>设定存储路径：可以不填，也可以填仓库的某个文件夹</li>
+<li>自定义域名： 改为<code>https://&lt;cdn加速链接&gt;/gh/&lt;用户名&gt;/&lt;图床仓库名&gt;</code>，如图我这里改成 <code>https://cdn.haoyep.com/gh/leegical/Blog_img</code> 即可。</li>
+</ul>
+<p>Piclist设置：</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291839783.png"></p>
+<p>对于之前文章中的 Github raw 或文件链接，替换成 CDN 链接即可。本文只需要进行以下替换：</p>
+<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"># 要替换的</span><br><span class="line">https://raw.githubusercontent.com/leegical/Blog_img/main</span><br><span class="line">https://github.com/leegical/Blog_img/blob/main</span><br><span class="line"></span><br><span class="line"># 替换为</span><br><span class="line">https://cdn.haoyep.com/gh/leegical/Blog_img</span><br></pre></td></tr></table></figure>
+
+<p>附最新好用的CDN供选择：</p>
+<blockquote>
+<p>jsdelivr 节点：常用于加速 GitHub&#x2F;npm 项目，可通过更改节点改善项目在国内的可用性。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>节点服务器</th>
+<th>提供商</th>
+<th>可用性</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>gcore.jsdelivr.net</td>
+<td>Gcore 节点</td>
+<td>高</td>
+</tr>
+<tr>
+<td>testingcf.jsdelivr.net</td>
+<td>Cloudflare 节点</td>
+<td>高</td>
+</tr>
+<tr>
+<td>quantil.jsdelivr.net</td>
+<td>Quantil 节点</td>
+<td>尚可</td>
+</tr>
+<tr>
+<td>fastly.jsdelivr.net</td>
+<td>Fastly 节点</td>
+<td>尚可</td>
+</tr>
+<tr>
+<td>originfastly.jsdelivr.net</td>
+<td>Fastly 节点</td>
+<td>低</td>
+</tr>
+<tr>
+<td>test1.jsdelivr.net</td>
+<td>Cloudflare 节点</td>
+<td>低</td>
+</tr>
+<tr>
+<td>cdn.jsdelivr.net</td>
+<td>通用节点</td>
+<td>低</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>个人提供的 jsdelivr 节点</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>节点服务器</th>
+<th>提供商</th>
+<th>使用须知</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>jsd.onmicrosoft.cn</td>
+<td>国内 CDN</td>
+<td>仅可自用，不可滥用</td>
+</tr>
+<tr>
+<td>jsdelivr.b-cdn.net</td>
+<td>台湾 CDN</td>
+<td>速度快，稳定性未知</td>
+</tr>
+</tbody></table>
+<p>台湾 cdn，不清楚稳定性。</p>
+<blockquote>
+<p>npm 节点：unpkg.com 国内几乎不可用，可用下方国内 cdn 节点，公益节点仅可自用，不可滥用。</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th>npm.elemecdn.com</th>
+<th>饿了么</th>
+<th>同步快</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>npm.onmicrosoft.cn</td>
+<td>公益</td>
+<td>需准确的版本号</td>
+</tr>
+<tr>
+<td>unpkg.zhimg.com</td>
+<td>知乎</td>
+<td>同步慢</td>
+</tr>
+<tr>
+<td>npm.akass.cn</td>
+<td>公益</td>
+<td>需准确的版本号</td>
+</tr>
+<tr>
+<td>cdn.chuqis.com&#x2F;npm&#x2F;</td>
+<td>公益</td>
+<td>需准确的版本号</td>
+</tr>
+<tr>
+<td>code.bdstatic.com&#x2F;npm</td>
+<td>百度</td>
+<td>仅同步热门包</td>
+</tr>
+</tbody></table>
+<p><strong>节点搜索服务</strong></p>
+<p><a target="_blank" rel="noopener" href="https://cdnjs.shssedu.ac.cn/">https://cdnjs.shssedu.ac.cn</a></p>
+<p>CDNJSCN 是一项免费开源 CDN (国内) 搜索服务，提供 CDNJS 库的搜索，加速链接转换服务，此外还提供 Github 、UNPKG 、Google 前端公共库、Google Fonts 加速链接的替换。</p>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta"><i class="fas fa-circle-user fa-fw"></i>文章作者: </span><span class="post-copyright-info"><a href="https://www.318666.xyz">伊哥</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta"><i class="fas fa-square-arrow-up-right fa-fw"></i>文章链接: </span><span class="post-copyright-info"><a href="https://www.318666.xyz/2024/02/29/%E9%80%9A%E8%BF%87-Cloudflare-%E5%92%8C-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F%E5%8D%9A%E5%AE%A2-GitHub-%E5%9B%BE%E5%BA%8A%E7%AD%89%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/">https://www.318666.xyz/2024/02/29/%E9%80%9A%E8%BF%87-Cloudflare-%E5%92%8C-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F%E5%8D%9A%E5%AE%A2-GitHub-%E5%9B%BE%E5%BA%8A%E7%AD%89%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta"><i class="fas fa-circle-exclamation fa-fw"></i>版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://www.318666.xyz" target="_blank">伊哥の分享</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/cdn/">cdn</a></div><div class="post_share"><div class="social-share" data-image="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291933732.png" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc@1.1.3/sharejs/dist/js/social-share.min.js" defer></script></div></div><nav class="pagination-post" id="pagination"><div class="next-post pull-full"><a href="/2024/02/29/hello-world/" title="Hello World"><div class="cover" style="background: var(--default-bg-color)"></div><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">Hello World</div></div></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291933732.png" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">伊哥</div><div class="author-info__description">一个爱分享的陌生人</div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">2</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">1</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">0</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/eystasy"><i class="fab fa-github"></i><span>Follow Me</span></a></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#%E9%80%9A%E8%BF%87-Cloudflare-%E5%92%8C-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F%E5%8D%9A%E5%AE%A2-GitHub-%E5%9B%BE%E5%BA%8A%E7%AD%89%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90"><span class="toc-number">1.</span> <span class="toc-text">通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%87%8D%E7%82%B9%EF%BC%9A"><span class="toc-number">1.0.1.</span> <span class="toc-text">重点：</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#1-%E5%89%8D%E8%A8%80"><span class="toc-number">1.1.</span> <span class="toc-text">1 前言</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#2-Cloudflare"><span class="toc-number">1.2.</span> <span class="toc-text">2 Cloudflare</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#2-1-%E9%85%8D%E7%BD%AE%E5%9F%9F%E5%90%8D"><span class="toc-number">1.2.1.</span> <span class="toc-text">2.1 配置域名</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#2-2-%E9%85%8D%E7%BD%AE%E9%87%8D%E5%AE%9A%E5%90%91%E8%A7%84%E5%88%99"><span class="toc-number">1.2.2.</span> <span class="toc-text">2.2 配置重定向规则</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#3-PicGo-%E8%AE%BE%E7%BD%AE"><span class="toc-number">1.3.</span> <span class="toc-text">3 PicGo 设置</span></a></li></ol></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2024/02/29/%E9%80%9A%E8%BF%87-Cloudflare-%E5%92%8C-jsDelivr-%E5%85%8D%E8%B4%B9%E5%8A%A0%E9%80%9F%E5%8D%9A%E5%AE%A2-GitHub-%E5%9B%BE%E5%BA%8A%E7%AD%89%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/" title="通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源">通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源</a><time datetime="2024-02-29T13:09:38.000Z" title="发表于 2024-02-29 21:09:38">2024-02-29</time></div></div><div class="aside-list-item no-cover"><div class="content"><a class="title" href="/2024/02/29/hello-world/" title="Hello World">Hello World</a><time datetime="2024-02-29T07:57:15.935Z" title="发表于 2024-02-29 15:57:15">2024-02-29</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2018 - 2024 By 伊哥</div><div class="framework-info"><span>框架 </span><a target="_blank" rel="noopener" href="https://hexo.io">Hexo</a><span class="footer-separator">|</span><span>主题 </span><a target="_blank" rel="noopener" href="https://github.com/jerryc127/hexo-theme-butterfly">Butterfly</a></div><div class="footer_custom_text"><a href="https://icp.gov.moe/?keyword=20240158" target="_blank">萌ICP备20240158号</a></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="darkmode" type="button" title="浅色和深色模式转换"><i class="fas fa-adjust"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside-config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><button id="go-up" type="button" title="回到顶部"><span class="scroll-percent"></span><i class="fas fa-arrow-up"></i></button></div></div><div><script src="/js/utils.js?v=4.13.0"></script><script src="/js/main.js?v=4.13.0"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0.33/dist/fancybox/fancybox.umd.min.js"></script><div class="js-pjax"></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
