@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.318666.xyz/gallery/index.html</loc>
+    <loc>https://www.318666.xyz/posts/3a244d75.html</loc>
+    
+    <lastmod>2024-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.318666.xyz/posts/c9fca01f.html</loc>
     
     <lastmod>2024-03-14</lastmod>
     
@@ -12,6 +21,15 @@
   
   <url>
     <loc>https://www.318666.xyz/gallery/Beauty/index.html</loc>
+    
+    <lastmod>2024-03-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.318666.xyz/gallery/index.html</loc>
     
     <lastmod>2024-03-14</lastmod>
     
@@ -140,24 +158,6 @@
     <loc>https://www.318666.xyz/posts/f24c96d.html</loc>
     
     <lastmod>2024-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.318666.xyz/posts/c9fca01f.html</loc>
-    
-    <lastmod>2024-02-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.318666.xyz/posts/3a244d75.html</loc>
-    
-    <lastmod>2024-02-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

@@ -357,6 +357,7 @@
 <li><code>hexo g; hexo s</code>本地预览，再更改，直到满意为止</li>
 <li><code>hexo d</code>或者<code>hexo g; hexo d</code>远程部署。</li>
 </ol>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141740073.JPG"></p>
 ]]></content>
       <categories>
         <category>分类</category>
@@ -387,7 +388,7 @@
 <h2 id="2-Cloudflare"><a href="#2-Cloudflare" class="headerlink" title="2 Cloudflare"></a>2 Cloudflare</h2><h3 id="2-1-配置域名"><a href="#2-1-配置域名" class="headerlink" title="2.1 配置域名"></a>2.1 配置域名</h3><p>使用 Cloudflare 托管域名，这一点教程很多，跟着做就行，</p>
 <p><a href="https://cdn.haoyep.com/gh/leegical/Blog_img/cdnimg/202312141651245.png?size=large"><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291830357.png" alt="托管域名"></a></p>
 <p>在 DNS 配置中，新增一条 CNAME 解析记录，并启用代理。 如图，我这里是将 <code>cdn.haoyep.com</code> 解析到了 <code>jsd.cdn.zzko.cn</code>，并使用 Cloudflare 代理（点亮小云朵）。</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291830770.png" alt="添加CNAME解析记录"></p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141741352.png" alt="添加CNAME解析记录"></p>
 <h3 id="2-2-配置重定向规则"><a href="#2-2-配置重定向规则" class="headerlink" title="2.2 配置重定向规则"></a>2.2 配置重定向规则</h3><p><strong>目标</strong>：资源链接都使用 <code>cdn.haoyep.com</code>，Cloudflare 在代理 <code>cdn.haoyep.com</code> 时，判断请求来源是国内，则将 <code>cdn.haoyep.com</code> 重定向到 <code>jsd.cdn.zzko.cn</code>；国外的请求则重定向到 <code>cdn.jsdelivr.net</code>。</p>
 <ol>
 <li>配置国内重定向<ul>
@@ -542,8 +543,11 @@
 <p><a href="https://cdnjs.shssedu.ac.cn/">https://cdnjs.shssedu.ac.cn</a></p>
 <p>CDNJSCN 是一项免费开源 CDN (国内) 搜索服务，提供 CDNJS 库的搜索，加速链接转换服务，此外还提供 Github 、UNPKG 、Google 前端公共库、Google Fonts 加速链接的替换。</p>
 ]]></content>
+      <categories>
+        <category>分类</category>
+      </categories>
       <tags>
-        <tag>cdn</tag>
+        <tag>hexo教程</tag>
       </tags>
   </entry>
   <entry>
