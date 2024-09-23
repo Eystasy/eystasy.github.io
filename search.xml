@@ -1,6 +1,361 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2023/06/15 一招启用Chrome的多线程下载</title>
+    <url>/posts/1e9c8b8.html</url>
+    <content><![CDATA[<h2 id="2023-06-15-一招启用Chrome的多线程下载"><a href="#2023-06-15-一招启用Chrome的多线程下载" class="headerlink" title="2023&#x2F;06&#x2F;15 一招启用Chrome的多线程下载"></a>2023&#x2F;06&#x2F;15 一招启用Chrome的多线程下载</h2><p>我们使用chrome的时候，有时候需要下载大文件，由于chrome默认的单线程限制，无法最大利用带宽进行下载，而有时候IDM也不能调用，这时候就需要开启浏览器自带的多线程下载。在这篇文章中，我来和大家一起来启用chrome的多线程下载设置。</p>
+<h2 id="准备材料"><a href="#准备材料" class="headerlink" title="准备材料"></a>准备材料</h2><ul>
+<li>Chrome 浏览器</li>
+</ul>
+<h2 id="部署步骤"><a href="#部署步骤" class="headerlink" title="部署步骤"></a>部署步骤</h2><p>1.打开chrome浏览器，地址栏输入： <code>chrome://flags/#enable-parallel-downloading</code>，回车进入，将Parallel downloading设置为Enabled。然后点击“Relaunch”按钮即可</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102120426.png" alt="20230612002025"></p>
+<p>2.可以看到下载速度已经从原来的100多k上来到5-6M这样了</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102120415.png" alt="20230612002424"></p>
+<p>用得到的朋友，赶紧试试吧！</p>
+<p>更多资源，欢迎关注我的微信公众号：</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102120497.jpg" alt="qrcode_for_gh_0c32857fc9c2_344-(1)"></p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023/06/27 随笔</title>
+    <url>/posts/9ec9b550.html</url>
+    <content><![CDATA[<h1 id="2023-06-27-随笔"><a href="#2023-06-27-随笔" class="headerlink" title="2023&#x2F;06&#x2F;27 随笔"></a>2023&#x2F;06&#x2F;27 随笔</h1><p>现在是夜里接近十一点了</p>
+<p>在这简单记录一下最近的一个状态</p>
+<p>每天还是有事儿做</p>
+<p>慢慢的也开始有钱赚</p>
+<p>有时候一天有几十块</p>
+<p>有时候一天只有十多块</p>
+<p>不过比起以前都是好很多了</p>
+<p>公众号已经写了一个多月了</p>
+<p>到下个月12号就是两个月了</p>
+<p>自己说的做一件事儿能够坚持下去</p>
+<p>不是简单的说说而已</p>
+<p>自己是真的做得到</p>
+<p>就看自己想不想去做了</p>
+<p>赚钱这东西</p>
+<p>真的是越赚越上瘾的</p>
+<p>头条以前一天几块钱自己都很高兴</p>
+<p>现在每天基本都是十多块</p>
+<p>今天三十多</p>
+<p>自己反而很淡定了</p>
+<p>脑海中慢慢的有个想法</p>
+<p>那就是自己的收入什么时候一天可以突破一百呢？</p>
+<p>目前只有头条和百家有收益</p>
+<p>其他都是没有收益的</p>
+<p>B站和知乎还没有开通</p>
+<p>只能达到要求申请试试了</p>
+<p>加油</p>
+<p>未来可期</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102110743.jpeg" alt="e375b1f4cd29dcc27104be708cc36805"></p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024/03/10 何为迷茫？为何迷茫？</title>
+    <url>/posts/22d1cfd8.html</url>
+    <content><![CDATA[<h1 id="何为迷茫？为何迷茫？"><a href="#何为迷茫？为何迷茫？" class="headerlink" title="何为迷茫？为何迷茫？"></a>何为迷茫？为何迷茫？</h1><h2 id="一、题记"><a href="#一、题记" class="headerlink" title="一、题记"></a>一、题记</h2><p>自过年回来，到现在为止，题目没有录到多少，说在家兼职也是谈不上的，毕竟题量上不去的话，工资也就上不去，比起一个月上班能拿好几千来说，确实算是杯水车薪了，这就导致很多很多的问题，第一个是老婆身上的担子就重了；第二是自己一直如此，家里人也是很担心；第三就是自己如此久了以后，自己也是觉得压力山大，各种烦躁不安接踵而来。</p>
+<h2 id="二、何为迷茫"><a href="#二、何为迷茫" class="headerlink" title="二、何为迷茫"></a>二、何为迷茫</h2><p>有时候，总是觉得自己很迷茫，然而这种状态也是一种很是玄幻的状态，到底什么样的情况叫做迷茫？你说无所事事叫做迷茫，可是我自己明明有事儿做，而且有时候在电脑面前一坐下就是一上午，或者一下午，或者一整天，都有出现过。也就是说，自己其实是有事儿做的，并不是属于无所事事那种。</p>
+<p>那究竟什么是迷茫？</p>
+<p>我由此陷入了深深的思考，其实迷茫，并不是说找不到事儿做，而是在自己的事儿并没有产生什么太大的价值，亦或者说直白一点儿就是没有产生经济价值，更直白一点就是没有赚到钱，就是那么简单，以至于做的事儿只是用爱发电而已。当然了，也并不是说一点儿可取之处也没有，毕竟微信公众号那里每天还是能够给自己带来几毛到几块钱不等的收入，也即是说还是有价值的。</p>
+<p>那为何会这么迷茫呢？或许是不等价，就好像一个天平，如果哪一方重了，最终还是会出现倾斜的。而生活是需要用钱的，并不是说俗气不俗气的问题，简简单单的生存问题，就是对自己最大的考验了，如果你考着谢谢工作号，做做其他能够维持生活还有剩余，那估计觉得这样的状态还不错，这样的日子还是很有盼头的。</p>
+<p>但是，现实就是如此的状态没有赚到钱，不能平衡开支产生剩余，因此就造成了不去上班，不去打工就得饿死的状态，既然如此，那肯定就会让自己烦躁不安，试想，面对不稳定，不确定，面对明天就得饿肚子，谁会心安理得？</p>
+<p>所以，也就产生了迷茫，毕竟自己不是不想上班，只是找不到合适的班上。矛盾就积聚了起来。也就产生了下一个问题。</p>
+<h2 id="三、为何迷茫"><a href="#三、为何迷茫" class="headerlink" title="三、为何迷茫"></a>三、为何迷茫</h2><p>为何迷茫？</p>
+<p>对啊，为何迷茫？</p>
+<p>是不会做事儿吗？并不是。那是能力不够吗？并不是。那究竟是为何会迷茫呢？</p>
+<p>我想，是为了明天和以后而迷茫吧！说实话，一直觉得体制内的工作没有太大价值，体制内机械的重复，工资也不高，所以当初就没有想过往这方面发展。也就一直没有下定决心去考编制之类的。而现在，疫情后的今天，明白了还是体制内的工作稳定，不管是啥情况，哪怕打仗了，估计也是稳得一逼，毕竟哪怕你休假，工资都是到位的。而且还不能小看这些岗位的工资，就好比我老婆来说，她现在每个月三千多到手的，然后住房公积金有1400，再加上一些补贴之类的，还是能达到5000+，而且是扣掉社保养老那些的情况下，逢年过节还有一些补贴，所以综合起来，收入也还可以，毕竟在填饱肚子的同时还有剩余。</p>
+<p>而我之所以迷茫，估计也是与这些有关系，毕竟如果自己一个月只有两三千块钱，那简直见识浪费劳动力，简直就是浪费了这些年的学习。要知道，我们村几个没有怎么读书的比我年纪还小点的，在外面一个月都能拿到六千至八千的样子，别人一个月顶我两个月，那我这份辛苦换来的，只能是三个字”不值得“。这也是找工作时候，有些挑剔的原因吧。</p>
+<p>明天，出去成都走走，四处逛逛，看看大家都在做些什么工作，让自己争取走出这样的迷茫心境。</p>
+<h2 id="四、接下来"><a href="#四、接下来" class="headerlink" title="四、接下来"></a>四、接下来</h2><p>接下来，就真的全力以赴去做，全力以赴的去找工作，毕竟只有工作了，才会安心一些，工资稍微低一点儿没有关系的，只要合适，对口，同时最好能长远一些。我之所以不太想继续教书，一是觉得现在的学生不知道感恩，二是因为自己负债太多，尚未处理，时不时还会收到催债短信，导致自己烦躁。</p>
+<p>利用这两天去成都瞎逛，让自己真的静下心来，思考一下未来的出路，未来的工作，未来的规划，早点安心上班，早点收收心，在认真上班的闲暇之余搞搞副业，才是正道。</p>
+<p>就这样吧，希望一切顺利！</p>
+<p>​														执笔于2024年3月10日 晚</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141625019.JPG"></p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-03-10 分享几张好看的壁纸</title>
+    <url>/posts/584aabbc.html</url>
+    <content><![CDATA[<h2 id="分享一些好看的壁纸给大家，喜欢的记得收藏哦！"><a href="#分享一些好看的壁纸给大家，喜欢的记得收藏哦！" class="headerlink" title="分享一些好看的壁纸给大家，喜欢的记得收藏哦！"></a>分享一些好看的壁纸给大家，喜欢的记得收藏哦！</h2><p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126405.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126406.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126610.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126611.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126612.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126613.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126614.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126615.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126616.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126617.jpg"></p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-03-11 记录两天半成都之行之感之思</title>
+    <url>/posts/c3f03b3c.html</url>
+    <content><![CDATA[<h1 id="2024-03-11-记录两天半成都之行之感之思"><a href="#2024-03-11-记录两天半成都之行之感之思" class="headerlink" title="2024-03-11 记录两天半成都之行之感之思"></a>2024-03-11 记录两天半成都之行之感之思</h1><h2 id="一、缘起"><a href="#一、缘起" class="headerlink" title="一、缘起"></a>一、缘起</h2><p>有时候，整个人会变得很压抑，具体原因估计就是因为很久没有正常去上班，自己没有什么可以持续的收入导致的吧，因此总是觉得自己“废了”一样，再加上老婆催我赶紧找班上，整个人就更加郁闷了吧。</p>
+<p>心情不好怎么办？干脆出去走走，啥也不用想的那种，走到哪里算哪里。</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141409037.JPG"></p>
+<h2 id="二、出发"><a href="#二、出发" class="headerlink" title="二、出发"></a>二、出发</h2><p>于是3.10号，也就是星期天，给我老婆说了下我的想法，她没有多说什么，估计还是觉得我这是有点儿逃避责任吧，不过还是去走走吧，不去感受别人为何而工作，自己总是处于一种迷茫的状态也是很不好的。就这样，我把火车票买好，然后3.11号，带上充电宝，充电线，身份证，就出门了。搭乘19路公交车直达火车站，然后在车站等车。看着人来人往的车站，我也是很感慨，看来和我一样的人并不少，大家都是在匆匆赶路，去哪里的都有。年纪也是各个年龄段的都有，确实很让人惊讶。这个时候，我不由得想到，我们都是不断的搭乘各式各样的列车吧，虽然目的地不同，但是我们都是过客，都不能够阻碍什么，我们能做的就是做好自己分内的事儿。</p>
+<p>虽然列车晚点了半个小时，在车上又待了四十多分钟，终于还是抵达成都了。所以很多时候，我们在做事儿的时候哪怕有些曲折，但是最终还是会到终点的，不是吗？对了，我记得，在车上火车一直不走的时候，有个男子打电话去投诉火车去了，然后在火车里滔滔不绝的述说着他很忙，急着赶去眉山，可是现在这情况，让他后续的时间安排全都乱了，他的诉求是要下车。虽然列车长没有过来，不过最终这个男子还是被允许下车了，然后我们所在车厢的乘务员给他开的门。还好我不赶时间，本来就是想来看看人生百态的，默默的听着歌，其实还挺好。不过，想一下，如果我处于那个男人的角度，我会不会也是如此处理呢？我想，如果是以前的我，断然不会，不过现在的我，答案是会的。</p>
+<p>在列车上，还听到旁边几个中年大叔在讨论政治，大家都在说某某某执政啥的，最终得出一句话：“我们老百姓关注的是什么？是谁当官吗？并不是，老百姓只是关注自己的吃饭问题，最多就是关注自己三天的吃饭问题，位置不对，关注那么多做什么？！”这话像是一道闪电，划过我的脑海，是啊，我自己关注那么多干什么呢？自己三天的吃饭问题解决了吗？要知道，这段时间没有上班，要是没有老婆接济，估计是饭都吃不起了，可是，我明明是那个她很崇拜的无所不能的自己，那自己应该振作起来，早点找班上 ，自己之前可是答应了她的，假期回去，要给妈妈几千块钱的，可千万不能食言啊！</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413775.JPG"></p>
+<h2 id="三、成都"><a href="#三、成都" class="headerlink" title="三、成都"></a>三、成都</h2><p>成都，天府之国，这个原本的二线城市，这些年也是评为了新一线城市，人们也是你来我往，世人都是忙忙碌碌、恍恍惚惚吧。手机上搜了搜，最终还是决定先去就近的公园走走，然后再去下一个公园，最后呢走到市中心天府广场逛逛，在那附近找地方休息就是。就这样，第一站就去浣花溪公园，本来想去公园旁边的杜甫草堂的，结果草堂门票70多，觉得没有那个必要，就到旁边公园逛逛也是挺不错。期间因为我的哈罗单车不知道啥时候买的月卡还没过期，又可以骑单车赶路，还是挺好的。</p>
+<p>浣花溪公园是一个小公园，公园里的长椅上，很多老人倚靠在上面晒太阳，很是惬意，当然也有一些年轻人或者是带孩子的家长也在这附近逛，还是很热闹的，拿出手机却找不到什么拍的，干脆拍拍桃花吧。不知道何时，自己都开始拍起花来了，也是醉了。期间，有两个老人一起散步，然后我听到老爷爷说：“现在有两个选择，一个是往这边走，就回去了，另一个就是往另一边，绕公园一周。“不知道最后他们如何选择的，但是，我后面没有遇到他们，估计是往回走了吧。我不禁想到，很多时候，两个人在一起，还是应该更多的给对方一些选择权，这样才和谐。我们都不能够替任何人做出选择，最终选择权还是要交给对方。同时，我们生命中，也是有很多很多的选择，正如自己的一次次选择，才是导致现在自己迷茫的最终原因。既然是自己的选择，那就没有必要抱怨。</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413997.JPG"></p>
+<p>走走停停，遇到一个女子陪着一个老人散步，估计当成是女儿和父亲吧，我只听到老人对女儿的劝慰：“那你这次回去，要去找班上哦……”其他的没有听清楚，不过也不重要了，我会想一下这么久，自己在干什么呢？这么大年纪的老人家都知道劝自己女儿找班上，我又有什么资格不去上班呢？年轻人的价值，还是要在工作中得以体现，而不是在于偷懒，自己虽然也是很忙，不过终归没有好好上班，没有体现出自己的价值。看着公园里那些拍鸟的大爷，他们的退休生活还挺不错，自己的退休生活是怎么样的？貌似没有好好想过这个问题。但是，自己现在都没有解决好自己的事儿，没有资格去说啥吧。</p>
+<p>后来，坐动车转到宽窄巷子，走走停停，觉得这个来了好多次的宽窄巷子很是陌生，依旧是人潮汹涌，不知道人们都是靠什么生存，为何如此多人在这逛街呢？或许很多是我们不知道的吧，毕竟工作之余还是可以到处走走的，比如培训机构啥的，不就是周一周二放假吗？还有一些周末比较繁忙的工作，大多选在周一放假，比如成都博物馆，成都科技馆那些，也是周一放假，周二到周日上班。</p>
+<p>当自己漫无目的的走走停停的，这种感觉真的挺不错，无法用语言来形容，自己就是一个过客，自己就是一个思考者，边走边想，后来，老婆给我转了200块钱，本来不想收的，不过这么几天，还是收到吧，她有这个心就觉得挺温暖的。然后本来想睡车站或者网吧包夜的，既然有钱了，那就可以去住酒店了，然后我就在美团上搜附近的酒店，本来想去住青年旅舍的，但是想到自己呼噜声音有点大，还是算了吧，于是选来选去，最后选择去一个网吧，住网吧包间，里面有电脑，旁边还有床，玩电脑累了还可以睡觉，挺不错，一天只要五十多，挺划算的，五十多买不了吃亏，买不了上当，要知道网吧里面哪怕最低配置的区域都是要4块钱一个小时，我在里面一住就是十多个小时，早就回本了。</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413916.JPG"></p>
+<h2 id="四、博览古今"><a href="#四、博览古今" class="headerlink" title="四、博览古今"></a>四、博览古今</h2><p>第二天，一大早就退房赶车去体检去了，自己的京东PLUS有一项优惠是免费体检，虽然没有CT那些，但是血常规、心电图啥的都是有的，也是挺好的，这个体检机构叫国宾体检，是私人体检机构，不过进去之后觉得还挺不错，里面的服务各种挺好，那些护士指引你该去那里，然后还会各个科室的医生也是挺专业的，基本上很快就体检好了，最后体检完，还提供免费早餐，我看了一下，早餐居然还是肯德基的套餐，也太有钱了，这服务也太好了。唯一不好的，就是这个大型的体检机构只在成都重庆等大点的城市才有分院，在遂宁这些小地方是注定没有的。</p>
+<p>体检结束还早，就约了下附近的科技馆和博物馆，把时间提前到上午，然后就是去科技馆把玩一下那些各种各样的有趣的东西，还是挺不错的，心里就想着以后得带老婆和孩子一起来玩。在科技馆还碰到某个学校带学生来参观，心里不由得想到还是隔得近的学生幸福，这些场馆想来就来，要知道农村的孩子，有的估计一辈子都没有来过吧。后来，又去了博物馆参观了一下，不过博物馆这东西，确实需要人讲解才有兴趣，不然的话感觉没有太大意思。</p>
+<p>后来，感觉没啥事，也到中午了，就赶回网吧，又续了一天的包间，晚餐当然是点外卖了，毕竟便宜，如果去外面吃，一个是贵，二是选择困难症，还有就是一个人，很少有合适的套餐可以吃吧。</p>
+<p>在网吧期间不想玩游戏，然后就搜了下动漫来看，看了一个热门的《咒术回战》吧，还挺好看，不过就是太短了，不像海贼王那样是连载的，看完都半夜了，隔壁呼噜声都响起来了，就匆匆入睡了。</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413641.JPG"></p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141414963.JPG"></p>
+<h2 id="五、些许感悟"><a href="#五、些许感悟" class="headerlink" title="五、些许感悟"></a>五、些许感悟</h2><p>生命的意义，并不是仅仅在于活着，而更应该在于创造价值，不管价值多少，都是要创造了价值才是。老一辈的，明显比我们更懂，所以，接下来认真找工作，别在犹豫徘徊，争取早点上班！</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141414024.JPG"></p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-03-14 文章头文件解析</title>
+    <url>/posts/d2910765.html</url>
+    <content><![CDATA[<h1 id="2024-03-14-文章头文件解析"><a href="#2024-03-14-文章头文件解析" class="headerlink" title="2024-03-14 文章头文件解析"></a>2024-03-14 文章头文件解析</h1><h3 id="以下关键词都是头文件可用，具体根据需要选择："><a href="#以下关键词都是头文件可用，具体根据需要选择：" class="headerlink" title="以下关键词都是头文件可用，具体根据需要选择："></a>以下关键词都是头文件可用，具体根据需要选择：</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">keywords:</span><br><span class="line">description:</span><br><span class="line">top_img:</span><br><span class="line">comments:</span><br><span class="line">cover:</span><br><span class="line">toc:</span><br><span class="line">toc_number:</span><br><span class="line">toc_style_simple:</span><br><span class="line">copyright:</span><br><span class="line">copyright_author:</span><br><span class="line">copyright_author_href:</span><br><span class="line">copyright_url:</span><br><span class="line">copyright_info:</span><br><span class="line">mathjax:</span><br><span class="line">katex:</span><br><span class="line">aplayer:</span><br><span class="line">highlight_shrink:</span><br><span class="line">aside:</span><br><span class="line">abcjs:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
+
+<table>
+<thead>
+<tr>
+<th align="left">关键词</th>
+<th>解析</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">title</td>
+<td>【必需】文章標題</td>
+</tr>
+<tr>
+<td align="left">date</td>
+<td>【必需】文章創建日期</td>
+</tr>
+<tr>
+<td align="left">updated</td>
+<td>【可選】文章更新日期</td>
+</tr>
+<tr>
+<td align="left">tags</td>
+<td>【可選】文章標籤</td>
+</tr>
+<tr>
+<td align="left">categories</td>
+<td>【可選】文章分類</td>
+</tr>
+<tr>
+<td align="left">keywords</td>
+<td>【可選】文章關鍵字</td>
+</tr>
+<tr>
+<td align="left">description</td>
+<td>【可選】文章描述</td>
+</tr>
+<tr>
+<td align="left">top_img</td>
+<td>【可選】文章頂部圖片</td>
+</tr>
+<tr>
+<td align="left">cover</td>
+<td>【可選】文章縮略圖(如果沒有設置top_img,文章頁頂部將顯示縮略圖，可設為false&#x2F;圖片地址&#x2F;留空)</td>
+</tr>
+<tr>
+<td align="left">comments</td>
+<td>【可選】顯示文章評論模塊(默認 true)</td>
+</tr>
+<tr>
+<td align="left">toc</td>
+<td>【可選】顯示文章TOC(默認為設置中toc的enable配置)</td>
+</tr>
+<tr>
+<td align="left">toc_number</td>
+<td>【可選】顯示toc_number(默認為設置中toc的number配置)</td>
+</tr>
+<tr>
+<td align="left">toc_style_simple</td>
+<td>【可選】顯示 toc 簡潔模式</td>
+</tr>
+<tr>
+<td align="left">copyright</td>
+<td>【可選】顯示文章版權模塊(默認為設置中post_copyright的enable配置)</td>
+</tr>
+<tr>
+<td align="left">copyright_author</td>
+<td>【可選】文章版權模塊的文章作者</td>
+</tr>
+<tr>
+<td align="left">copyright_author_href</td>
+<td>【可選】文章版權模塊的文章作者鏈接</td>
+</tr>
+<tr>
+<td align="left">copyright_url</td>
+<td>【可選】文章版權模塊的文章連結鏈接</td>
+</tr>
+<tr>
+<td align="left">copyright_info</td>
+<td>【可選】文章版權模塊的版權聲明文字</td>
+</tr>
+<tr>
+<td align="left">mathjax</td>
+<td>【可選】顯示mathjax(當設置 mathjax 的 per_page:  false 時，才需要配置，默認 false )</td>
+</tr>
+<tr>
+<td align="left">katex</td>
+<td>【可選】顯示 katex (當設置 katex 的 per_page: false  時，才需要配置，默認 false )</td>
+</tr>
+<tr>
+<td align="left">aplayer</td>
+<td>【可選】在需要的頁面加載 aplayer 的 js 和  css,請參考文章下面的音樂 配置</td>
+</tr>
+<tr>
+<td align="left">highlight_shrink</td>
+<td>【可選】配置代碼框是否展開(true&#x2F;false)(默認為設置中  highlight_shrink 的配置)</td>
+</tr>
+<tr>
+<td align="left">aside</td>
+<td>【可選】顯示側邊欄 (默認 true)【可選】加載 abcjs (當設置 abcjs 的 per_page: false  時，才需要配置，默認 false )</td>
+</tr>
+</tbody></table>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141449169.jpg"></p>
+]]></content>
+      <categories>
+        <category>分类</category>
+      </categories>
+      <tags>
+        <tag>hexo教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2024-03-14 分享几张好看的壁纸</title>
+    <url>/posts/f24c96d.html</url>
+    <content><![CDATA[<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418177.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418178.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418179.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418180.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418181.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418182.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418183.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418184.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418185.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418186.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418187.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418188.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418189.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418190.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418191.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418192.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418193.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418194.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418196.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418197.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418198.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418199.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418200.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418201.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418202.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418203.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418204.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418205.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418206.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418207.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418208.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418209.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418210.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418211.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418212.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418213.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418214.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418215.jpg"></p>
+]]></content>
+      <categories>
+        <category>日常</category>
+        <category>分享</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+        <tag>分享</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo创建sitemap站点地图向搜索引擎提交</title>
+    <url>/posts/96774ff8.html</url>
+    <content><![CDATA[<h1 id="Hexo创建sitemap站点地图向搜索引擎提交"><a href="#Hexo创建sitemap站点地图向搜索引擎提交" class="headerlink" title="Hexo创建sitemap站点地图向搜索引擎提交"></a>Hexo创建sitemap站点地图向搜索引擎提交</h1><p>站点地图是一种xml文件，可以通过该文件列出网站上的网页，从而将网站内容的组织架构告知Google和其他搜索引擎。Sitemap 可方便管理员通知搜索引擎他们网站上有哪些可供抓取的网页。搜索引擎网页抓取工具会读取此文件，以便更加智能地抓取您的网站。</p>
+<p>向搜索引擎提交自己hexo博客的sitemap，有助于让别人更好地通过搜索引擎搜索到自己的博客。</p>
+<h2 id="一、生成Hexo博客的sitemap文件"><a href="#一、生成Hexo博客的sitemap文件" class="headerlink" title="一、生成Hexo博客的sitemap文件"></a>一、生成Hexo博客的sitemap文件</h2><p>Hexo有提供2个插件，用来自动生成sitemap文件。用以下命令安装：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save</span><br><span class="line">npm install hexo-generator-baidu-sitemap --save</span><br></pre></td></tr></table></figure>
+
+<p>安装完后，每当执行 <code>hexo generate</code>命令后，就会在Hexo下的public目录下生成两个文件。</p>
+<ul>
+<li>sitemap.xml 这个用来提交给Google、Bing等搜索引擎</li>
+<li>baidusitemap.xml 这个是百度专用的</li>
+</ul>
+<p>运行 <code>hexo deploy</code>命令后，打开访问：<code>域名/sitemap.xml</code>，<code>域名/baidusitemap.xml</code>这两个文件都能访问，就没问题了。</p>
+<p>访问结果如下图所示：<br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010324177.png" alt="img"></p>
+<h2 id="二、提交站点地图-sitemap-给搜索引擎"><a href="#二、提交站点地图-sitemap-给搜索引擎" class="headerlink" title="二、提交站点地图(sitemap)给搜索引擎"></a>二、提交站点地图(sitemap)给搜索引擎</h2><h3 id="1-提交给Google"><a href="#1-提交给Google" class="headerlink" title="1.提交给Google"></a>1.提交给Google</h3><p>网址：<a href="https://search.google.com/search-console/">https://search.google.com/search-console/</a><br>当然，前提是你能访问Google，并注册了Google的账号了。</p>
+<p>1).需要有个先验证你对网站的所有权</p>
+<ul>
+<li><p>首先，按操作提示下载提供的HTML验证文件（google2342fweklrljlj235423.html类型这样的文件）；</p>
+</li>
+<li><p>然后，要把这个文件放网站首页；</p>
+<p>（就直接放<code>Hexo/source</code>目录下，按<a href="https://www.hduzn.cn/2022/05/12/Hexo%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A1%B5%E9%9D%A2%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93/">Hexo 自定义页面 跳过渲染</a>这篇文章的跳过渲染方法，<code>hexo g</code>后就会生成在public目录下了）</p>
+</li>
+<li><p>最后，添加站点地图</p>
+<p>有两种方式，可以自己都试下。提交完后如下图所示就行了，回头再看：</p>
+</li>
+</ul>
+<h3 id="2-提交给Bing"><a href="#2-提交给Bing" class="headerlink" title="2.提交给Bing"></a>2.提交给Bing</h3><p>如果能提交给Google的话，先提交给Google后，再提交给Bing就很简单。因为可以直接授权通过。</p>
+<p>网址：<a href="https://www.bing.com/webmasters">https://www.bing.com/webmasters</a></p>
+<p>然后我就直接添加了下【网站地图】，就用sitemap.xml文件就行，把http和https的直接添加试了下。<br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010324047.png" alt="img"></p>
+<h3 id="3-提交给百度"><a href="#3-提交给百度" class="headerlink" title="3.提交给百度"></a>3.提交给百度</h3><p>百度原来叫站长平台吧，现在好像改名叫什么资源了。<br>网址：<a href="https://ziyuan.baidu.com/linksubmit/index">https://ziyuan.baidu.com/linksubmit/index</a></p>
+<p>百度是我最搞不懂的，明明<code>域名/baidusitemap.xml</code>文件都能访问，反正提交还是失败。<br>提示“主域校验失败”。<br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010324231.png" alt="img"></p>
+<p>难道文章里还不能出现别的站点了？？太奇怪了，什么玩意~ 遂放弃。</p>
+<p><strong>最后，顺便说一下可以怎么在搜索引擎上看结果</strong>：<br>可以过一两天，然后打开搜索引擎，直接搜索 <code>site:域名</code>或者前面再加个关键词，（比如我的搜索 <code>hexo site:hduzn.cn</code>）就可以看收录了多少了。<br>在搜索引擎中搜索时 ，加上site:域名，本来就可以搜索指定站点中的内容。</p>
+]]></content>
+      <categories>
+        <category>hexo经验</category>
+      </categories>
+      <tags>
+        <tag>hexo站点地图</tag>
+        <tag>hexo创建sitemap</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>google搜索检索资料必备的搜索语法</title>
+    <url>/posts/4ce8ee48.html</url>
+    <content><![CDATA[<h1 id="google检索必备的搜索语法"><a href="#google检索必备的搜索语法" class="headerlink" title="google检索必备的搜索语法"></a>google检索必备的搜索语法</h1><p>我们在用google搜索时候，可运用搜索语法提升效率，下面简单介绍一下几个常用的点。</p>
+<h4 id="具体用法："><a href="#具体用法：" class="headerlink" title="具体用法："></a>具体用法：</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">限定关键词:用双引号&quot;&quot;包裹</span><br></pre></td></tr></table></figure>
+
+
+
+<h3 id="1-限定标题-intitle"><a href="#1-限定标题-intitle" class="headerlink" title="(1) 限定标题:intitle"></a>(1) 限定标题:intitle</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“intitle:登录”</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011250731.png"></p>
+<h3 id="2-限定内容-intext"><a href="#2-限定内容-intext" class="headerlink" title="(2) 限定内容:intext"></a>(2) 限定内容:intext</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“intext:2023年中国经济报告”</span><br></pre></td></tr></table></figure>
+
+<p> <img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011253496.png"></p>
+<h3 id="3-限定网址-inurl"><a href="#3-限定网址-inurl" class="headerlink" title="(3) 限定网址:inurl"></a>(3) 限定网址:inurl</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">特斯拉 site:www.baidu.com</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011301202.png"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“inurl:www.baidu.com”</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011254277.png"></p>
+<h3 id="4-限定网站-site"><a href="#4-限定网站-site" class="headerlink" title="(4) 限定网站:site"></a>(4) 限定网站:site</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">海贼王 site:www.baidu.com</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011300416.png"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“Site：family.chinaok.com”</span><br></pre></td></tr></table></figure>
+
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011256115.png"></p>
+<h3 id="5-限定图片大小-imagesize"><a href="#5-限定图片大小-imagesize" class="headerlink" title="(5) 限定图片大小:imagesize"></a>(5) 限定图片大小:imagesize</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">海贼王 imagesize:1920*1080</span><br></pre></td></tr></table></figure>
+
+<p> <img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011259924.png"></p>
+<h3 id="6-限定文件类型-filetype"><a href="#6-限定文件类型-filetype" class="headerlink" title="(6) 限定文件类型:filetype"></a>(6) 限定文件类型:filetype</h3><p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011245543.png"></p>
+<h3 id="PS：掌握以上知识，事半功倍！"><a href="#PS：掌握以上知识，事半功倍！" class="headerlink" title="PS：掌握以上知识，事半功倍！"></a>PS：掌握以上知识，事半功倍！</h3>]]></content>
+      <categories>
+        <category>google经验</category>
+      </categories>
+      <tags>
+        <tag>google搜索技巧</tag>
+        <tag>google检索技巧</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/posts/4a17b156.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -368,6 +723,99 @@
       </tags>
   </entry>
   <entry>
+    <title>测试</title>
+    <url>/posts/9daba997.html</url>
+    <content><![CDATA[<h1 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h1><p>​		之前注册域名的时候，搜了一下一些单词，然后有一个引起了我的注意：<strong>ecstasy</strong>，狂喜和发迷的意思，后面才知道这个词语居然还有摇头丸的意思。</p>
+<p>​		不过这个词语不允许注册，于是就改动一个单词，注册了<strong>eystasy</strong>。</p>
+<p><img src="https://jsd.cdn.zzko.cn/gh/Eystasy/default@main/20230701/%E6%9C%AA%E6%A0%87%E9%A2%98-1.4xk05oipjes0.png" alt="未标题-1"></p>
+<h2 id="圈名由来"><a href="#圈名由来" class="headerlink" title="圈名由来"></a>圈名由来</h2><p>​		由于自己有一些想法，做什么都要做好，极致的意思，所以就更具eystasy的谐音，取了一个还好的名称：<strong>伊哥</strong>，意思就是要好好做，做好的意思，当然，最近比较忙，都没怎么更新自己的博客了。</p>
+<p>​		3、我的喜好？</p>
+<ul>
+<li>上网看时事</li>
+<li>上网找乐子</li>
+<li>研究一些技术</li>
+<li>分享一些知识</li>
+</ul>
+<p>​		个人爱好挺多的，自己经常学习，经常搜集一堆堆教程，后来接触到VPS之后，又开始入了Ubuntu的坑，研究各种命令，安装各种软件，分享各种知识等，总之是一个喜欢分享的人就是了。</p>
+<h2 id="博客定位和方向"><a href="#博客定位和方向" class="headerlink" title="博客定位和方向"></a>博客定位和方向</h2><p>​		说起博客，最初还是源于新浪微博，然后慢慢接触到外面的世界，这才知道原来很多网站实际就是个人博客来的。自己也很喜欢捣鼓一些杂七杂八的技能，收藏了一大堆，不断学习，每次看完别人的分享，总是觉得差点意思，于是自己也想建一个博客来分享自己的一些经验，希望对别人有所帮助。于是，这个博客应运而生。好久没有认真更新了，我也在思考自己博客的意义和目标。</p>
+<p>​        由于之前wordpress网站出故障，最终换为现在的typecho网站，感觉更简洁更稳定。</p>
+<p>​		我的博客最终定位是：<strong>技术分享+软件&#x2F;网站分享+个人日志</strong></p>
+<p>​		在今后的网站中，除了分享一些实用的技术之外，我也会逐渐分享一些自己常用的软件&#x2F;网站之类的，感兴趣的朋友可以收藏起来，希望我的分享能够给你带来一些帮助。</p>
+<h2 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h2><p>Mail：<a href="mailto:feedback@eystasy.com"> feedback@eystasy.com</a></p>
+<p>YouTube：<a href="https://www.youtube.com/@eystasy">Eystasy丨伊哥の分享</a></p>
+<p>Twitter：<a href="https://twitter.com/eystasy">Eystasy丨伊哥の分享</a></p>
+<p>Github：<a href="https://github.com/eystasy">Eystasy</a></p>
+<p>​                                                                                                               <a href="https://www.eystasy.com/">伊哥</a></p>
+<p>​                                                                                                      执笔于：2023年7月1日</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>记录一下如何同时将hexo部署到github和个人ubuntu服务器</title>
+    <url>/posts/10de2c4f.html</url>
+    <content><![CDATA[<h2 id="记录一下如何同时将hexo部署到github和个人ubuntu服务器"><a href="#记录一下如何同时将hexo部署到github和个人ubuntu服务器" class="headerlink" title="记录一下如何同时将hexo部署到github和个人ubuntu服务器"></a>记录一下如何同时将hexo部署到github和个人ubuntu服务器</h2><h2 id="1、申请秘钥对的时候需要指定位置和名称"><a href="#1、申请秘钥对的时候需要指定位置和名称" class="headerlink" title="1、申请秘钥对的时候需要指定位置和名称"></a>1、申请秘钥对的时候需要指定位置和名称</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;eystasy@gmail.com&quot; -f C:\Users\Colar\github\my_ssh_key</span><br></pre></td></tr></table></figure>
+
+<p>说明：</p>
+<p>-t 表示选择加密方式。</p>
+<p>-c 表示用户，通常填写邮箱表示</p>
+<p>-f 指定秘钥保存路径，最后的“my_ssh_key”表示秘钥名称</p>
+<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010248698.png"></p>
+<h3 id="2、用notepad等软件打开-pub的公钥，复制后粘贴到github的SSH-key的位置。具体见图。"><a href="#2、用notepad等软件打开-pub的公钥，复制后粘贴到github的SSH-key的位置。具体见图。" class="headerlink" title="2、用notepad等软件打开.pub的公钥，复制后粘贴到github的SSH key的位置。具体见图。"></a>2、用notepad等软件打开.pub的公钥，复制后粘贴到github的SSH key的位置。具体见图。</h3><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010253917.png" style="zoom:67%;" />
+
+<img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010253368.png" style="zoom:67%;" />
+
+<h3 id="3-配置config文件"><a href="#3-配置config文件" class="headerlink" title="3.配置config文件"></a>3.配置config文件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">路径：C:\Users\Colar\.ssh</span><br></pre></td></tr></table></figure>
+
+<h4 id="config配置"><a href="#config配置" class="headerlink" title="config配置"></a>config配置</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">  HostName github.com</span><br><span class="line">  User git</span><br><span class="line">  IdentityFile C:\\Users\\Colar/github/my_ssh_key</span><br><span class="line">  IdentitiesOnly yes</span><br></pre></td></tr></table></figure>
+
+<ul>
+<li><p>将<code>C:/path/to/your/private_key</code>替换为你的私钥文件的实际路径。注意路径使用正斜杠（&#x2F;）或双反斜杠（\）。</p>
+</li>
+<li><p><code>Host</code>可以是任何你想要的别名，如果你连接的是GitHub，通常直接使用<code>github.com</code>。</p>
+</li>
+<li><p><code>HostName</code>是Git服务器的地址，对于GitHub，它就是<code>github.com</code>。</p>
+</li>
+<li><p><code>User</code>是SSH连接中使用的用户名，对于GitHub而言，通常是<code>git</code>。</p>
+</li>
+<li><p><code>IdentitiesOnly yes</code>确保SSH只使用指定的<code>IdentityFile</code>。</p>
+</li>
+<li><h5 id="运行下列代码检测连通性："><a href="#运行下列代码检测连通性：" class="headerlink" title="运行下列代码检测连通性："></a>运行下列代码检测连通性：</h5></li>
+<li><pre><code>ssh -T git@github.com
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010259858.png)</span><br><span class="line"></span><br><span class="line">或者下面的代码（区别是有错误输出）：</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+ssh -vT git@github.com
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">  ![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010300250.png)</span><br><span class="line"></span><br><span class="line">### 4.hexo中的_config主文件中进行相关修改</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+deploy:
+</code></pre>
+</li>
+<li><p>type: git<br>repo:<br>branch:</p>
+</li>
+<li><p>type: heroku<br>repo:<br>branch:</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">##### 因为我是用的nginx proxy manager管理网站，所以同时采用了git链接和ssh链接，附上个人部署方案：</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<p>deploy:</p>
+<ul>
+<li>type: git<br>repo: ssh:&#x2F;&#x2F;<a href="mailto:&#x72;&#111;&#111;&#x74;&#x40;&#x31;&#x31;&#x31;&#x2e;&#x31;&#49;&#x31;&#x2e;&#49;&#49;&#49;&#x2e;&#x31;&#x31;&#x31;">&#x72;&#111;&#111;&#x74;&#x40;&#x31;&#x31;&#x31;&#x2e;&#x31;&#49;&#x31;&#x2e;&#49;&#49;&#49;&#x2e;&#x31;&#x31;&#x31;</a>:&#x2F;home&#x2F;git&#x2F;blog<br>branch: master</li>
+<li>type: git<br>repo: <a href="mailto:&#103;&#x69;&#116;&#x40;&#x67;&#x69;&#116;&#x68;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;">&#103;&#x69;&#116;&#x40;&#x67;&#x69;&#116;&#x68;&#117;&#98;&#x2e;&#x63;&#x6f;&#x6d;</a>:Eystasy&#x2F;eystasy.github.io.git<br>branch: master</li>
+</ul>
+</li>
+</ul>
+<pre><code>
+### 5.尝试部署，注意看是否部署两次，即可判定是否成功。
+
+![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010305753.png)
+
+![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010305255.png)
+
+### 6.至此成功解决问题，这个问题都花了好几个小时才解决。记录一下，以被不时之需。
+</code></pre>
+]]></content>
+      <categories>
+        <category>hexo经验</category>
+      </categories>
+      <tags>
+        <tag>hexo部署多个服务器</tag>
+        <tag>指定秘钥 - git指定秘钥 - ssh指定秘钥</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源</title>
     <url>/posts/3a244d75.html</url>
     <content><![CDATA[<h1 id="通过-Cloudflare-和-jsDelivr-免费加速博客-GitHub-图床等静态资源"><a href="#通过-Cloudflare-和-jsDelivr-免费加速博客-GitHub-图床等静态资源" class="headerlink" title="通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源"></a>通过 Cloudflare 和 jsDelivr 免费加速博客 GitHub 图床等静态资源</h1><p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202402291829274.png"></p>
@@ -542,427 +990,6 @@
 <p><strong>节点搜索服务</strong></p>
 <p><a href="https://cdnjs.shssedu.ac.cn/">https://cdnjs.shssedu.ac.cn</a></p>
 <p>CDNJSCN 是一项免费开源 CDN (国内) 搜索服务，提供 CDNJS 库的搜索，加速链接转换服务，此外还提供 Github 、UNPKG 、Google 前端公共库、Google Fonts 加速链接的替换。</p>
-]]></content>
-      <categories>
-        <category>分类</category>
-      </categories>
-      <tags>
-        <tag>hexo教程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>记录一下如何同时将hexo部署到github和个人ubuntu服务器</title>
-    <url>/posts/10de2c4f.html</url>
-    <content><![CDATA[<h2 id="记录一下如何同时将hexo部署到github和个人ubuntu服务器"><a href="#记录一下如何同时将hexo部署到github和个人ubuntu服务器" class="headerlink" title="记录一下如何同时将hexo部署到github和个人ubuntu服务器"></a>记录一下如何同时将hexo部署到github和个人ubuntu服务器</h2><h2 id="1、申请秘钥对的时候需要指定位置和名称"><a href="#1、申请秘钥对的时候需要指定位置和名称" class="headerlink" title="1、申请秘钥对的时候需要指定位置和名称"></a>1、申请秘钥对的时候需要指定位置和名称</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">ssh-keygen -t rsa -C &quot;eystasy@gmail.com&quot; -f C:\Users\Colar\github\my_ssh_key</span><br></pre></td></tr></table></figure>
-
-<p>说明：</p>
-<p>-t 表示选择加密方式。</p>
-<p>-c 表示用户，通常填写邮箱表示</p>
-<p>-f 指定秘钥保存路径，最后的“my_ssh_key”表示秘钥名称</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010248698.png"></p>
-<h3 id="2、用notepad等软件打开-pub的公钥，复制后粘贴到github的SSH-key的位置。具体见图。"><a href="#2、用notepad等软件打开-pub的公钥，复制后粘贴到github的SSH-key的位置。具体见图。" class="headerlink" title="2、用notepad等软件打开.pub的公钥，复制后粘贴到github的SSH key的位置。具体见图。"></a>2、用notepad等软件打开.pub的公钥，复制后粘贴到github的SSH key的位置。具体见图。</h3><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010253917.png" style="zoom:67%;" />
-
-<img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010253368.png" style="zoom:67%;" />
-
-<h3 id="3-配置config文件"><a href="#3-配置config文件" class="headerlink" title="3.配置config文件"></a>3.配置config文件</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">路径：C:\Users\Colar\.ssh</span><br></pre></td></tr></table></figure>
-
-<h4 id="config配置"><a href="#config配置" class="headerlink" title="config配置"></a>config配置</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">  HostName github.com</span><br><span class="line">  User git</span><br><span class="line">  IdentityFile C:\\Users\\Colar/github/my_ssh_key</span><br><span class="line">  IdentitiesOnly yes</span><br></pre></td></tr></table></figure>
-
-<ul>
-<li><p>将<code>C:/path/to/your/private_key</code>替换为你的私钥文件的实际路径。注意路径使用正斜杠（&#x2F;）或双反斜杠（\）。</p>
-</li>
-<li><p><code>Host</code>可以是任何你想要的别名，如果你连接的是GitHub，通常直接使用<code>github.com</code>。</p>
-</li>
-<li><p><code>HostName</code>是Git服务器的地址，对于GitHub，它就是<code>github.com</code>。</p>
-</li>
-<li><p><code>User</code>是SSH连接中使用的用户名，对于GitHub而言，通常是<code>git</code>。</p>
-</li>
-<li><p><code>IdentitiesOnly yes</code>确保SSH只使用指定的<code>IdentityFile</code>。</p>
-</li>
-<li><h5 id="运行下列代码检测连通性："><a href="#运行下列代码检测连通性：" class="headerlink" title="运行下列代码检测连通性："></a>运行下列代码检测连通性：</h5></li>
-<li><pre><code>ssh -T git@github.com
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010259858.png)</span><br><span class="line"></span><br><span class="line">或者下面的代码（区别是有错误输出）：</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-ssh -vT git@github.com
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">  ![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010300250.png)</span><br><span class="line"></span><br><span class="line">### 4.hexo中的_config主文件中进行相关修改</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-deploy:
-</code></pre>
-</li>
-<li><p>type: git<br>repo:<br>branch:</p>
-</li>
-<li><p>type: heroku<br>repo:<br>branch:</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">##### 因为我是用的nginx proxy manager管理网站，所以同时采用了git链接和ssh链接，附上个人部署方案：</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<p>deploy:</p>
-<ul>
-<li>type: git<br>repo: ssh:&#x2F;&#x2F;<a href="mailto:&#114;&#111;&#111;&#116;&#x40;&#x31;&#49;&#x31;&#46;&#49;&#x31;&#49;&#x2e;&#x31;&#49;&#49;&#46;&#49;&#49;&#49;">&#114;&#111;&#111;&#116;&#x40;&#x31;&#49;&#x31;&#46;&#49;&#x31;&#49;&#x2e;&#x31;&#49;&#49;&#46;&#49;&#49;&#49;</a>:&#x2F;home&#x2F;git&#x2F;blog<br>branch: master</li>
-<li>type: git<br>repo: <a href="mailto:&#103;&#x69;&#x74;&#64;&#x67;&#105;&#x74;&#x68;&#x75;&#x62;&#46;&#99;&#x6f;&#109;">&#103;&#x69;&#x74;&#64;&#x67;&#105;&#x74;&#x68;&#x75;&#x62;&#46;&#99;&#x6f;&#109;</a>:Eystasy&#x2F;eystasy.github.io.git<br>branch: master</li>
-</ul>
-</li>
-</ul>
-<pre><code>
-### 5.尝试部署，注意看是否部署两次，即可判定是否成功。
-
-![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010305753.png)
-
-![](https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010305255.png)
-
-### 6.至此成功解决问题，这个问题都花了好几个小时才解决。记录一下，以被不时之需。
-</code></pre>
-]]></content>
-      <categories>
-        <category>hexo经验</category>
-      </categories>
-      <tags>
-        <tag>hexo部署多个服务器</tag>
-        <tag>指定秘钥 - git指定秘钥 - ssh指定秘钥</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo创建sitemap站点地图向搜索引擎提交</title>
-    <url>/posts/96774ff8.html</url>
-    <content><![CDATA[<h1 id="Hexo创建sitemap站点地图向搜索引擎提交"><a href="#Hexo创建sitemap站点地图向搜索引擎提交" class="headerlink" title="Hexo创建sitemap站点地图向搜索引擎提交"></a>Hexo创建sitemap站点地图向搜索引擎提交</h1><p>站点地图是一种xml文件，可以通过该文件列出网站上的网页，从而将网站内容的组织架构告知Google和其他搜索引擎。Sitemap 可方便管理员通知搜索引擎他们网站上有哪些可供抓取的网页。搜索引擎网页抓取工具会读取此文件，以便更加智能地抓取您的网站。</p>
-<p>向搜索引擎提交自己hexo博客的sitemap，有助于让别人更好地通过搜索引擎搜索到自己的博客。</p>
-<h2 id="一、生成Hexo博客的sitemap文件"><a href="#一、生成Hexo博客的sitemap文件" class="headerlink" title="一、生成Hexo博客的sitemap文件"></a>一、生成Hexo博客的sitemap文件</h2><p>Hexo有提供2个插件，用来自动生成sitemap文件。用以下命令安装：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo-generator-sitemap --save</span><br><span class="line">npm install hexo-generator-baidu-sitemap --save</span><br></pre></td></tr></table></figure>
-
-<p>安装完后，每当执行 <code>hexo generate</code>命令后，就会在Hexo下的public目录下生成两个文件。</p>
-<ul>
-<li>sitemap.xml 这个用来提交给Google、Bing等搜索引擎</li>
-<li>baidusitemap.xml 这个是百度专用的</li>
-</ul>
-<p>运行 <code>hexo deploy</code>命令后，打开访问：<code>域名/sitemap.xml</code>，<code>域名/baidusitemap.xml</code>这两个文件都能访问，就没问题了。</p>
-<p>访问结果如下图所示：<br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010324177.png" alt="img"></p>
-<h2 id="二、提交站点地图-sitemap-给搜索引擎"><a href="#二、提交站点地图-sitemap-给搜索引擎" class="headerlink" title="二、提交站点地图(sitemap)给搜索引擎"></a>二、提交站点地图(sitemap)给搜索引擎</h2><h3 id="1-提交给Google"><a href="#1-提交给Google" class="headerlink" title="1.提交给Google"></a>1.提交给Google</h3><p>网址：<a href="https://search.google.com/search-console/">https://search.google.com/search-console/</a><br>当然，前提是你能访问Google，并注册了Google的账号了。</p>
-<p>1).需要有个先验证你对网站的所有权</p>
-<ul>
-<li><p>首先，按操作提示下载提供的HTML验证文件（google2342fweklrljlj235423.html类型这样的文件）；</p>
-</li>
-<li><p>然后，要把这个文件放网站首页；</p>
-<p>（就直接放<code>Hexo/source</code>目录下，按<a href="https://www.hduzn.cn/2022/05/12/Hexo%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A1%B5%E9%9D%A2%E8%B7%B3%E8%BF%87%E6%B8%B2%E6%9F%93/">Hexo 自定义页面 跳过渲染</a>这篇文章的跳过渲染方法，<code>hexo g</code>后就会生成在public目录下了）</p>
-</li>
-<li><p>最后，添加站点地图</p>
-<p>有两种方式，可以自己都试下。提交完后如下图所示就行了，回头再看：</p>
-</li>
-</ul>
-<h3 id="2-提交给Bing"><a href="#2-提交给Bing" class="headerlink" title="2.提交给Bing"></a>2.提交给Bing</h3><p>如果能提交给Google的话，先提交给Google后，再提交给Bing就很简单。因为可以直接授权通过。</p>
-<p>网址：<a href="https://www.bing.com/webmasters">https://www.bing.com/webmasters</a></p>
-<p>然后我就直接添加了下【网站地图】，就用sitemap.xml文件就行，把http和https的直接添加试了下。<br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010324047.png" alt="img"></p>
-<h3 id="3-提交给百度"><a href="#3-提交给百度" class="headerlink" title="3.提交给百度"></a>3.提交给百度</h3><p>百度原来叫站长平台吧，现在好像改名叫什么资源了。<br>网址：<a href="https://ziyuan.baidu.com/linksubmit/index">https://ziyuan.baidu.com/linksubmit/index</a></p>
-<p>百度是我最搞不懂的，明明<code>域名/baidusitemap.xml</code>文件都能访问，反正提交还是失败。<br>提示“主域校验失败”。<br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403010324231.png" alt="img"></p>
-<p>难道文章里还不能出现别的站点了？？太奇怪了，什么玩意~ 遂放弃。</p>
-<p><strong>最后，顺便说一下可以怎么在搜索引擎上看结果</strong>：<br>可以过一两天，然后打开搜索引擎，直接搜索 <code>site:域名</code>或者前面再加个关键词，（比如我的搜索 <code>hexo site:hduzn.cn</code>）就可以看收录了多少了。<br>在搜索引擎中搜索时 ，加上site:域名，本来就可以搜索指定站点中的内容。</p>
-]]></content>
-      <categories>
-        <category>hexo经验</category>
-      </categories>
-      <tags>
-        <tag>hexo站点地图</tag>
-        <tag>hexo创建sitemap</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>google搜索检索资料必备的搜索语法</title>
-    <url>/posts/4ce8ee48.html</url>
-    <content><![CDATA[<h1 id="google检索必备的搜索语法"><a href="#google检索必备的搜索语法" class="headerlink" title="google检索必备的搜索语法"></a>google检索必备的搜索语法</h1><p>我们在用google搜索时候，可运用搜索语法提升效率，下面简单介绍一下几个常用的点。</p>
-<h4 id="具体用法："><a href="#具体用法：" class="headerlink" title="具体用法："></a>具体用法：</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">限定关键词:用双引号&quot;&quot;包裹</span><br></pre></td></tr></table></figure>
-
-
-
-<h3 id="1-限定标题-intitle"><a href="#1-限定标题-intitle" class="headerlink" title="(1) 限定标题:intitle"></a>(1) 限定标题:intitle</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“intitle:登录”</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011250731.png"></p>
-<h3 id="2-限定内容-intext"><a href="#2-限定内容-intext" class="headerlink" title="(2) 限定内容:intext"></a>(2) 限定内容:intext</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“intext:2023年中国经济报告”</span><br></pre></td></tr></table></figure>
-
-<p> <img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011253496.png"></p>
-<h3 id="3-限定网址-inurl"><a href="#3-限定网址-inurl" class="headerlink" title="(3) 限定网址:inurl"></a>(3) 限定网址:inurl</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">特斯拉 site:www.baidu.com</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011301202.png"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“inurl:www.baidu.com”</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011254277.png"></p>
-<h3 id="4-限定网站-site"><a href="#4-限定网站-site" class="headerlink" title="(4) 限定网站:site"></a>(4) 限定网站:site</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">海贼王 site:www.baidu.com</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011300416.png"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">“Site：family.chinaok.com”</span><br></pre></td></tr></table></figure>
-
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011256115.png"></p>
-<h3 id="5-限定图片大小-imagesize"><a href="#5-限定图片大小-imagesize" class="headerlink" title="(5) 限定图片大小:imagesize"></a>(5) 限定图片大小:imagesize</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">海贼王 imagesize:1920*1080</span><br></pre></td></tr></table></figure>
-
-<p> <img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011259924.png"></p>
-<h3 id="6-限定文件类型-filetype"><a href="#6-限定文件类型-filetype" class="headerlink" title="(6) 限定文件类型:filetype"></a>(6) 限定文件类型:filetype</h3><p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403011245543.png"></p>
-<h3 id="PS：掌握以上知识，事半功倍！"><a href="#PS：掌握以上知识，事半功倍！" class="headerlink" title="PS：掌握以上知识，事半功倍！"></a>PS：掌握以上知识，事半功倍！</h3>]]></content>
-      <categories>
-        <category>google经验</category>
-      </categories>
-      <tags>
-        <tag>google搜索技巧</tag>
-        <tag>google检索技巧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024/03/10 何为迷茫？为何迷茫？</title>
-    <url>/posts/22d1cfd8.html</url>
-    <content><![CDATA[<h1 id="何为迷茫？为何迷茫？"><a href="#何为迷茫？为何迷茫？" class="headerlink" title="何为迷茫？为何迷茫？"></a>何为迷茫？为何迷茫？</h1><h2 id="一、题记"><a href="#一、题记" class="headerlink" title="一、题记"></a>一、题记</h2><p>自过年回来，到现在为止，题目没有录到多少，说在家兼职也是谈不上的，毕竟题量上不去的话，工资也就上不去，比起一个月上班能拿好几千来说，确实算是杯水车薪了，这就导致很多很多的问题，第一个是老婆身上的担子就重了；第二是自己一直如此，家里人也是很担心；第三就是自己如此久了以后，自己也是觉得压力山大，各种烦躁不安接踵而来。</p>
-<h2 id="二、何为迷茫"><a href="#二、何为迷茫" class="headerlink" title="二、何为迷茫"></a>二、何为迷茫</h2><p>有时候，总是觉得自己很迷茫，然而这种状态也是一种很是玄幻的状态，到底什么样的情况叫做迷茫？你说无所事事叫做迷茫，可是我自己明明有事儿做，而且有时候在电脑面前一坐下就是一上午，或者一下午，或者一整天，都有出现过。也就是说，自己其实是有事儿做的，并不是属于无所事事那种。</p>
-<p>那究竟什么是迷茫？</p>
-<p>我由此陷入了深深的思考，其实迷茫，并不是说找不到事儿做，而是在自己的事儿并没有产生什么太大的价值，亦或者说直白一点儿就是没有产生经济价值，更直白一点就是没有赚到钱，就是那么简单，以至于做的事儿只是用爱发电而已。当然了，也并不是说一点儿可取之处也没有，毕竟微信公众号那里每天还是能够给自己带来几毛到几块钱不等的收入，也即是说还是有价值的。</p>
-<p>那为何会这么迷茫呢？或许是不等价，就好像一个天平，如果哪一方重了，最终还是会出现倾斜的。而生活是需要用钱的，并不是说俗气不俗气的问题，简简单单的生存问题，就是对自己最大的考验了，如果你考着谢谢工作号，做做其他能够维持生活还有剩余，那估计觉得这样的状态还不错，这样的日子还是很有盼头的。</p>
-<p>但是，现实就是如此的状态没有赚到钱，不能平衡开支产生剩余，因此就造成了不去上班，不去打工就得饿死的状态，既然如此，那肯定就会让自己烦躁不安，试想，面对不稳定，不确定，面对明天就得饿肚子，谁会心安理得？</p>
-<p>所以，也就产生了迷茫，毕竟自己不是不想上班，只是找不到合适的班上。矛盾就积聚了起来。也就产生了下一个问题。</p>
-<h2 id="三、为何迷茫"><a href="#三、为何迷茫" class="headerlink" title="三、为何迷茫"></a>三、为何迷茫</h2><p>为何迷茫？</p>
-<p>对啊，为何迷茫？</p>
-<p>是不会做事儿吗？并不是。那是能力不够吗？并不是。那究竟是为何会迷茫呢？</p>
-<p>我想，是为了明天和以后而迷茫吧！说实话，一直觉得体制内的工作没有太大价值，体制内机械的重复，工资也不高，所以当初就没有想过往这方面发展。也就一直没有下定决心去考编制之类的。而现在，疫情后的今天，明白了还是体制内的工作稳定，不管是啥情况，哪怕打仗了，估计也是稳得一逼，毕竟哪怕你休假，工资都是到位的。而且还不能小看这些岗位的工资，就好比我老婆来说，她现在每个月三千多到手的，然后住房公积金有1400，再加上一些补贴之类的，还是能达到5000+，而且是扣掉社保养老那些的情况下，逢年过节还有一些补贴，所以综合起来，收入也还可以，毕竟在填饱肚子的同时还有剩余。</p>
-<p>而我之所以迷茫，估计也是与这些有关系，毕竟如果自己一个月只有两三千块钱，那简直见识浪费劳动力，简直就是浪费了这些年的学习。要知道，我们村几个没有怎么读书的比我年纪还小点的，在外面一个月都能拿到六千至八千的样子，别人一个月顶我两个月，那我这份辛苦换来的，只能是三个字”不值得“。这也是找工作时候，有些挑剔的原因吧。</p>
-<p>明天，出去成都走走，四处逛逛，看看大家都在做些什么工作，让自己争取走出这样的迷茫心境。</p>
-<h2 id="四、接下来"><a href="#四、接下来" class="headerlink" title="四、接下来"></a>四、接下来</h2><p>接下来，就真的全力以赴去做，全力以赴的去找工作，毕竟只有工作了，才会安心一些，工资稍微低一点儿没有关系的，只要合适，对口，同时最好能长远一些。我之所以不太想继续教书，一是觉得现在的学生不知道感恩，二是因为自己负债太多，尚未处理，时不时还会收到催债短信，导致自己烦躁。</p>
-<p>利用这两天去成都瞎逛，让自己真的静下心来，思考一下未来的出路，未来的工作，未来的规划，早点安心上班，早点收收心，在认真上班的闲暇之余搞搞副业，才是正道。</p>
-<p>就这样吧，希望一切顺利！</p>
-<p>​														执笔于2024年3月10日 晚</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141625019.JPG"></p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023/06/27 随笔</title>
-    <url>/posts/9ec9b550.html</url>
-    <content><![CDATA[<h1 id="2023-06-27-随笔"><a href="#2023-06-27-随笔" class="headerlink" title="2023&#x2F;06&#x2F;27 随笔"></a>2023&#x2F;06&#x2F;27 随笔</h1><p>现在是夜里接近十一点了</p>
-<p>在这简单记录一下最近的一个状态</p>
-<p>每天还是有事儿做</p>
-<p>慢慢的也开始有钱赚</p>
-<p>有时候一天有几十块</p>
-<p>有时候一天只有十多块</p>
-<p>不过比起以前都是好很多了</p>
-<p>公众号已经写了一个多月了</p>
-<p>到下个月12号就是两个月了</p>
-<p>自己说的做一件事儿能够坚持下去</p>
-<p>不是简单的说说而已</p>
-<p>自己是真的做得到</p>
-<p>就看自己想不想去做了</p>
-<p>赚钱这东西</p>
-<p>真的是越赚越上瘾的</p>
-<p>头条以前一天几块钱自己都很高兴</p>
-<p>现在每天基本都是十多块</p>
-<p>今天三十多</p>
-<p>自己反而很淡定了</p>
-<p>脑海中慢慢的有个想法</p>
-<p>那就是自己的收入什么时候一天可以突破一百呢？</p>
-<p>目前只有头条和百家有收益</p>
-<p>其他都是没有收益的</p>
-<p>B站和知乎还没有开通</p>
-<p>只能达到要求申请试试了</p>
-<p>加油</p>
-<p>未来可期</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102110743.jpeg" alt="e375b1f4cd29dcc27104be708cc36805"></p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023/06/15 一招启用Chrome的多线程下载</title>
-    <url>/posts/1e9c8b8.html</url>
-    <content><![CDATA[<h2 id="2023-06-15-一招启用Chrome的多线程下载"><a href="#2023-06-15-一招启用Chrome的多线程下载" class="headerlink" title="2023&#x2F;06&#x2F;15 一招启用Chrome的多线程下载"></a>2023&#x2F;06&#x2F;15 一招启用Chrome的多线程下载</h2><p>我们使用chrome的时候，有时候需要下载大文件，由于chrome默认的单线程限制，无法最大利用带宽进行下载，而有时候IDM也不能调用，这时候就需要开启浏览器自带的多线程下载。在这篇文章中，我来和大家一起来启用chrome的多线程下载设置。</p>
-<h2 id="准备材料"><a href="#准备材料" class="headerlink" title="准备材料"></a>准备材料</h2><ul>
-<li>Chrome 浏览器</li>
-</ul>
-<h2 id="部署步骤"><a href="#部署步骤" class="headerlink" title="部署步骤"></a>部署步骤</h2><p>1.打开chrome浏览器，地址栏输入： <code>chrome://flags/#enable-parallel-downloading</code>，回车进入，将Parallel downloading设置为Enabled。然后点击“Relaunch”按钮即可</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102120426.png" alt="20230612002025"></p>
-<p>2.可以看到下载速度已经从原来的100多k上来到5-6M这样了</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102120415.png" alt="20230612002424"></p>
-<p>用得到的朋友，赶紧试试吧！</p>
-<p>更多资源，欢迎关注我的微信公众号：</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102120497.jpg" alt="qrcode_for_gh_0c32857fc9c2_344-(1)"></p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024-03-10 分享几张好看的壁纸</title>
-    <url>/posts/584aabbc.html</url>
-    <content><![CDATA[<h2 id="分享一些好看的壁纸给大家，喜欢的记得收藏哦！"><a href="#分享一些好看的壁纸给大家，喜欢的记得收藏哦！" class="headerlink" title="分享一些好看的壁纸给大家，喜欢的记得收藏哦！"></a>分享一些好看的壁纸给大家，喜欢的记得收藏哦！</h2><p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126405.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126406.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126610.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126611.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126612.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126613.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126614.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126615.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126616.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403102126617.jpg"></p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024-03-11 记录两天半成都之行之感之思</title>
-    <url>/posts/c3f03b3c.html</url>
-    <content><![CDATA[<h1 id="2024-03-11-记录两天半成都之行之感之思"><a href="#2024-03-11-记录两天半成都之行之感之思" class="headerlink" title="2024-03-11 记录两天半成都之行之感之思"></a>2024-03-11 记录两天半成都之行之感之思</h1><h2 id="一、缘起"><a href="#一、缘起" class="headerlink" title="一、缘起"></a>一、缘起</h2><p>有时候，整个人会变得很压抑，具体原因估计就是因为很久没有正常去上班，自己没有什么可以持续的收入导致的吧，因此总是觉得自己“废了”一样，再加上老婆催我赶紧找班上，整个人就更加郁闷了吧。</p>
-<p>心情不好怎么办？干脆出去走走，啥也不用想的那种，走到哪里算哪里。</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141409037.JPG"></p>
-<h2 id="二、出发"><a href="#二、出发" class="headerlink" title="二、出发"></a>二、出发</h2><p>于是3.10号，也就是星期天，给我老婆说了下我的想法，她没有多说什么，估计还是觉得我这是有点儿逃避责任吧，不过还是去走走吧，不去感受别人为何而工作，自己总是处于一种迷茫的状态也是很不好的。就这样，我把火车票买好，然后3.11号，带上充电宝，充电线，身份证，就出门了。搭乘19路公交车直达火车站，然后在车站等车。看着人来人往的车站，我也是很感慨，看来和我一样的人并不少，大家都是在匆匆赶路，去哪里的都有。年纪也是各个年龄段的都有，确实很让人惊讶。这个时候，我不由得想到，我们都是不断的搭乘各式各样的列车吧，虽然目的地不同，但是我们都是过客，都不能够阻碍什么，我们能做的就是做好自己分内的事儿。</p>
-<p>虽然列车晚点了半个小时，在车上又待了四十多分钟，终于还是抵达成都了。所以很多时候，我们在做事儿的时候哪怕有些曲折，但是最终还是会到终点的，不是吗？对了，我记得，在车上火车一直不走的时候，有个男子打电话去投诉火车去了，然后在火车里滔滔不绝的述说着他很忙，急着赶去眉山，可是现在这情况，让他后续的时间安排全都乱了，他的诉求是要下车。虽然列车长没有过来，不过最终这个男子还是被允许下车了，然后我们所在车厢的乘务员给他开的门。还好我不赶时间，本来就是想来看看人生百态的，默默的听着歌，其实还挺好。不过，想一下，如果我处于那个男人的角度，我会不会也是如此处理呢？我想，如果是以前的我，断然不会，不过现在的我，答案是会的。</p>
-<p>在列车上，还听到旁边几个中年大叔在讨论政治，大家都在说某某某执政啥的，最终得出一句话：“我们老百姓关注的是什么？是谁当官吗？并不是，老百姓只是关注自己的吃饭问题，最多就是关注自己三天的吃饭问题，位置不对，关注那么多做什么？！”这话像是一道闪电，划过我的脑海，是啊，我自己关注那么多干什么呢？自己三天的吃饭问题解决了吗？要知道，这段时间没有上班，要是没有老婆接济，估计是饭都吃不起了，可是，我明明是那个她很崇拜的无所不能的自己，那自己应该振作起来，早点找班上 ，自己之前可是答应了她的，假期回去，要给妈妈几千块钱的，可千万不能食言啊！</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413775.JPG"></p>
-<h2 id="三、成都"><a href="#三、成都" class="headerlink" title="三、成都"></a>三、成都</h2><p>成都，天府之国，这个原本的二线城市，这些年也是评为了新一线城市，人们也是你来我往，世人都是忙忙碌碌、恍恍惚惚吧。手机上搜了搜，最终还是决定先去就近的公园走走，然后再去下一个公园，最后呢走到市中心天府广场逛逛，在那附近找地方休息就是。就这样，第一站就去浣花溪公园，本来想去公园旁边的杜甫草堂的，结果草堂门票70多，觉得没有那个必要，就到旁边公园逛逛也是挺不错。期间因为我的哈罗单车不知道啥时候买的月卡还没过期，又可以骑单车赶路，还是挺好的。</p>
-<p>浣花溪公园是一个小公园，公园里的长椅上，很多老人倚靠在上面晒太阳，很是惬意，当然也有一些年轻人或者是带孩子的家长也在这附近逛，还是很热闹的，拿出手机却找不到什么拍的，干脆拍拍桃花吧。不知道何时，自己都开始拍起花来了，也是醉了。期间，有两个老人一起散步，然后我听到老爷爷说：“现在有两个选择，一个是往这边走，就回去了，另一个就是往另一边，绕公园一周。“不知道最后他们如何选择的，但是，我后面没有遇到他们，估计是往回走了吧。我不禁想到，很多时候，两个人在一起，还是应该更多的给对方一些选择权，这样才和谐。我们都不能够替任何人做出选择，最终选择权还是要交给对方。同时，我们生命中，也是有很多很多的选择，正如自己的一次次选择，才是导致现在自己迷茫的最终原因。既然是自己的选择，那就没有必要抱怨。</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413997.JPG"></p>
-<p>走走停停，遇到一个女子陪着一个老人散步，估计当成是女儿和父亲吧，我只听到老人对女儿的劝慰：“那你这次回去，要去找班上哦……”其他的没有听清楚，不过也不重要了，我会想一下这么久，自己在干什么呢？这么大年纪的老人家都知道劝自己女儿找班上，我又有什么资格不去上班呢？年轻人的价值，还是要在工作中得以体现，而不是在于偷懒，自己虽然也是很忙，不过终归没有好好上班，没有体现出自己的价值。看着公园里那些拍鸟的大爷，他们的退休生活还挺不错，自己的退休生活是怎么样的？貌似没有好好想过这个问题。但是，自己现在都没有解决好自己的事儿，没有资格去说啥吧。</p>
-<p>后来，坐动车转到宽窄巷子，走走停停，觉得这个来了好多次的宽窄巷子很是陌生，依旧是人潮汹涌，不知道人们都是靠什么生存，为何如此多人在这逛街呢？或许很多是我们不知道的吧，毕竟工作之余还是可以到处走走的，比如培训机构啥的，不就是周一周二放假吗？还有一些周末比较繁忙的工作，大多选在周一放假，比如成都博物馆，成都科技馆那些，也是周一放假，周二到周日上班。</p>
-<p>当自己漫无目的的走走停停的，这种感觉真的挺不错，无法用语言来形容，自己就是一个过客，自己就是一个思考者，边走边想，后来，老婆给我转了200块钱，本来不想收的，不过这么几天，还是收到吧，她有这个心就觉得挺温暖的。然后本来想睡车站或者网吧包夜的，既然有钱了，那就可以去住酒店了，然后我就在美团上搜附近的酒店，本来想去住青年旅舍的，但是想到自己呼噜声音有点大，还是算了吧，于是选来选去，最后选择去一个网吧，住网吧包间，里面有电脑，旁边还有床，玩电脑累了还可以睡觉，挺不错，一天只要五十多，挺划算的，五十多买不了吃亏，买不了上当，要知道网吧里面哪怕最低配置的区域都是要4块钱一个小时，我在里面一住就是十多个小时，早就回本了。</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413916.JPG"></p>
-<h2 id="四、博览古今"><a href="#四、博览古今" class="headerlink" title="四、博览古今"></a>四、博览古今</h2><p>第二天，一大早就退房赶车去体检去了，自己的京东PLUS有一项优惠是免费体检，虽然没有CT那些，但是血常规、心电图啥的都是有的，也是挺好的，这个体检机构叫国宾体检，是私人体检机构，不过进去之后觉得还挺不错，里面的服务各种挺好，那些护士指引你该去那里，然后还会各个科室的医生也是挺专业的，基本上很快就体检好了，最后体检完，还提供免费早餐，我看了一下，早餐居然还是肯德基的套餐，也太有钱了，这服务也太好了。唯一不好的，就是这个大型的体检机构只在成都重庆等大点的城市才有分院，在遂宁这些小地方是注定没有的。</p>
-<p>体检结束还早，就约了下附近的科技馆和博物馆，把时间提前到上午，然后就是去科技馆把玩一下那些各种各样的有趣的东西，还是挺不错的，心里就想着以后得带老婆和孩子一起来玩。在科技馆还碰到某个学校带学生来参观，心里不由得想到还是隔得近的学生幸福，这些场馆想来就来，要知道农村的孩子，有的估计一辈子都没有来过吧。后来，又去了博物馆参观了一下，不过博物馆这东西，确实需要人讲解才有兴趣，不然的话感觉没有太大意思。</p>
-<p>后来，感觉没啥事，也到中午了，就赶回网吧，又续了一天的包间，晚餐当然是点外卖了，毕竟便宜，如果去外面吃，一个是贵，二是选择困难症，还有就是一个人，很少有合适的套餐可以吃吧。</p>
-<p>在网吧期间不想玩游戏，然后就搜了下动漫来看，看了一个热门的《咒术回战》吧，还挺好看，不过就是太短了，不像海贼王那样是连载的，看完都半夜了，隔壁呼噜声都响起来了，就匆匆入睡了。</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141413641.JPG"></p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141414963.JPG"></p>
-<h2 id="五、些许感悟"><a href="#五、些许感悟" class="headerlink" title="五、些许感悟"></a>五、些许感悟</h2><p>生命的意义，并不是仅仅在于活着，而更应该在于创造价值，不管价值多少，都是要创造了价值才是。老一辈的，明显比我们更懂，所以，接下来认真找工作，别在犹豫徘徊，争取早点上班！</p>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141414024.JPG"></p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024-03-14 分享几张好看的壁纸</title>
-    <url>/posts/f24c96d.html</url>
-    <content><![CDATA[<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418177.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418178.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418179.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418180.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418181.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418182.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418183.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418184.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418185.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418186.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418187.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418188.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418189.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418190.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418191.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418192.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418193.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418194.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418196.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418197.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418198.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418199.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418200.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418201.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418202.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418203.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418204.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418205.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418206.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418207.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418208.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418209.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418210.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418211.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418212.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418213.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418214.jpg"><br><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141418215.jpg"></p>
-]]></content>
-      <categories>
-        <category>日常</category>
-        <category>分享</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-        <tag>分享</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2024-03-14 文章头文件解析</title>
-    <url>/posts/d2910765.html</url>
-    <content><![CDATA[<h1 id="2024-03-14-文章头文件解析"><a href="#2024-03-14-文章头文件解析" class="headerlink" title="2024-03-14 文章头文件解析"></a>2024-03-14 文章头文件解析</h1><h3 id="以下关键词都是头文件可用，具体根据需要选择："><a href="#以下关键词都是头文件可用，具体根据需要选择：" class="headerlink" title="以下关键词都是头文件可用，具体根据需要选择："></a>以下关键词都是头文件可用，具体根据需要选择：</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">keywords:</span><br><span class="line">description:</span><br><span class="line">top_img:</span><br><span class="line">comments:</span><br><span class="line">cover:</span><br><span class="line">toc:</span><br><span class="line">toc_number:</span><br><span class="line">toc_style_simple:</span><br><span class="line">copyright:</span><br><span class="line">copyright_author:</span><br><span class="line">copyright_author_href:</span><br><span class="line">copyright_url:</span><br><span class="line">copyright_info:</span><br><span class="line">mathjax:</span><br><span class="line">katex:</span><br><span class="line">aplayer:</span><br><span class="line">highlight_shrink:</span><br><span class="line">aside:</span><br><span class="line">abcjs:</span><br><span class="line">---</span><br></pre></td></tr></table></figure>
-
-<table>
-<thead>
-<tr>
-<th align="left">关键词</th>
-<th>解析</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">title</td>
-<td>【必需】文章標題</td>
-</tr>
-<tr>
-<td align="left">date</td>
-<td>【必需】文章創建日期</td>
-</tr>
-<tr>
-<td align="left">updated</td>
-<td>【可選】文章更新日期</td>
-</tr>
-<tr>
-<td align="left">tags</td>
-<td>【可選】文章標籤</td>
-</tr>
-<tr>
-<td align="left">categories</td>
-<td>【可選】文章分類</td>
-</tr>
-<tr>
-<td align="left">keywords</td>
-<td>【可選】文章關鍵字</td>
-</tr>
-<tr>
-<td align="left">description</td>
-<td>【可選】文章描述</td>
-</tr>
-<tr>
-<td align="left">top_img</td>
-<td>【可選】文章頂部圖片</td>
-</tr>
-<tr>
-<td align="left">cover</td>
-<td>【可選】文章縮略圖(如果沒有設置top_img,文章頁頂部將顯示縮略圖，可設為false&#x2F;圖片地址&#x2F;留空)</td>
-</tr>
-<tr>
-<td align="left">comments</td>
-<td>【可選】顯示文章評論模塊(默認 true)</td>
-</tr>
-<tr>
-<td align="left">toc</td>
-<td>【可選】顯示文章TOC(默認為設置中toc的enable配置)</td>
-</tr>
-<tr>
-<td align="left">toc_number</td>
-<td>【可選】顯示toc_number(默認為設置中toc的number配置)</td>
-</tr>
-<tr>
-<td align="left">toc_style_simple</td>
-<td>【可選】顯示 toc 簡潔模式</td>
-</tr>
-<tr>
-<td align="left">copyright</td>
-<td>【可選】顯示文章版權模塊(默認為設置中post_copyright的enable配置)</td>
-</tr>
-<tr>
-<td align="left">copyright_author</td>
-<td>【可選】文章版權模塊的文章作者</td>
-</tr>
-<tr>
-<td align="left">copyright_author_href</td>
-<td>【可選】文章版權模塊的文章作者鏈接</td>
-</tr>
-<tr>
-<td align="left">copyright_url</td>
-<td>【可選】文章版權模塊的文章連結鏈接</td>
-</tr>
-<tr>
-<td align="left">copyright_info</td>
-<td>【可選】文章版權模塊的版權聲明文字</td>
-</tr>
-<tr>
-<td align="left">mathjax</td>
-<td>【可選】顯示mathjax(當設置 mathjax 的 per_page:  false 時，才需要配置，默認 false )</td>
-</tr>
-<tr>
-<td align="left">katex</td>
-<td>【可選】顯示 katex (當設置 katex 的 per_page: false  時，才需要配置，默認 false )</td>
-</tr>
-<tr>
-<td align="left">aplayer</td>
-<td>【可選】在需要的頁面加載 aplayer 的 js 和  css,請參考文章下面的音樂 配置</td>
-</tr>
-<tr>
-<td align="left">highlight_shrink</td>
-<td>【可選】配置代碼框是否展開(true&#x2F;false)(默認為設置中  highlight_shrink 的配置)</td>
-</tr>
-<tr>
-<td align="left">aside</td>
-<td>【可選】顯示側邊欄 (默認 true)【可選】加載 abcjs (當設置 abcjs 的 per_page: false  時，才需要配置，默認 false )</td>
-</tr>
-</tbody></table>
-<p><img src="https://cdn.318666.xyz/gh/Eystasy/piclist-blog-hosting/piclist/202403141449169.jpg"></p>
 ]]></content>
       <categories>
         <category>分类</category>
